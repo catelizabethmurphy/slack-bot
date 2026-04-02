@@ -1,0 +1,27 @@
+name: Slacky Bot Workflow
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Runs every day at 1:00 AM UTC (9:00 PM Eastern Time)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  slacky:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install slack-sdk
+
+      - name: Run Slack Bot
+        env:
+          SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+        run: python slack_bot.py
+

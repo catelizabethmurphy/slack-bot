@@ -1,0 +1,1000 @@
+[{"uid":"Allegany2026-03-22T13:15:55","area":"Allegany","outages":"0","customers":"37328","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Anne_Arundel2026-03-22T13:15:55","area":"Anne Arundel","outages":"4","customers":"264775","percent_out":"0.0015107166462090455","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Baltimore2026-03-22T13:15:55","area":"Baltimore","outages":"4","customers":"378370","percent_out":"0.0010571662658244575","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Baltimore_City2026-03-22T13:15:55","area":"Baltimore City","outages":"11","customers":"285416","percent_out":"0.0038540236006390674","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Calvert2026-03-22T13:15:55","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Caroline2026-03-22T13:15:55","area":"Caroline","outages":"0","customers":"16570","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Carroll2026-03-22T13:15:55","area":"Carroll","outages":"5","customers":"76733","percent_out":"0.006516101286278394","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Cecil2026-03-22T13:15:55","area":"Cecil","outages":"0","customers":"51857","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Charles2026-03-22T13:15:55","area":"Charles","outages":"18","customers":"77082","percent_out":"0.02335175527360473","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Dorchester2026-03-22T13:15:55","area":"Dorchester","outages":"0","customers":"20334","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Frederick2026-03-22T13:15:55","area":"Frederick","outages":"0","customers":"120003","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Garrett2026-03-22T13:15:55","area":"Garrett","outages":"0","customers":"21451","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Harford2026-03-22T13:15:55","area":"Harford","outages":"4","customers":"116390","percent_out":"0.0034367213678151045","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Howard2026-03-22T13:15:55","area":"Howard","outages":"4","customers":"140364","percent_out":"0.002849733549913083","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Kent2026-03-22T13:15:55","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Montgomery2026-03-22T13:15:55","area":"Montgomery","outages":"0","customers":"385196","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Prince_George's2026-03-22T13:15:55","area":"Prince George's","outages":"4","customers":"355613","percent_out":"0.0011248182715480031","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Queen_Anne's2026-03-22T13:15:55","area":"Queen Anne's","outages":"4","customers":"28554","percent_out":"0.014008545212579673","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Somerset2026-03-22T13:15:55","area":"Somerset","outages":"4","customers":"11534","percent_out":"0.03468007629616785","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"St._Mary's2026-03-22T13:15:55","area":"St. Mary's","outages":"34","customers":"55538","percent_out":"0.06121934531311895","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Talbot2026-03-22T13:15:55","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Washington2026-03-22T13:15:55","area":"Washington","outages":"4","customers":"54834","percent_out":"0.0072947441368494004","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Allegany2026-03-14T13:30:56","area":"Allegany","outages":"14","customers":"37318","percent_out":"0.03751540811404684","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Anne_Arundel2026-03-14T13:30:56","area":"Anne Arundel","outages":"117","customers":"264804","percent_out":"0.04418362260388816","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Baltimore2026-03-14T13:30:56","area":"Baltimore","outages":"69","customers":"378376","percent_out":"0.01823582891092458","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Baltimore_City2026-03-14T13:30:56","area":"Baltimore City","outages":"607","customers":"285419","percent_out":"0.21266979423233912","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Calvert2026-03-14T13:30:56","area":"Calvert","outages":"0","customers":"42221","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Caroline2026-03-14T13:30:56","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Carroll2026-03-14T13:30:56","area":"Carroll","outages":"55","customers":"76721","percent_out":"0.07168832523038021","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Cecil2026-03-14T13:30:56","area":"Cecil","outages":"913","customers":"51861","percent_out":"1.760475116175932","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Charles2026-03-14T13:30:56","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Dorchester2026-03-14T13:30:56","area":"Dorchester","outages":"0","customers":"20339","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Frederick2026-03-14T13:30:56","area":"Frederick","outages":"20","customers":"120014","percent_out":"0.01666472244904761","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Garrett2026-03-14T13:30:56","area":"Garrett","outages":"9","customers":"21454","percent_out":"0.041950219073366275","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Harford2026-03-14T13:30:56","area":"Harford","outages":"11","customers":"116487","percent_out":"0.009443113823860174","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Howard2026-03-14T13:30:56","area":"Howard","outages":"4","customers":"140344","percent_out":"0.0028501396568431855","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Wicomico2026-03-22T13:15:55","area":"Wicomico","outages":"0","customers":"50949","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Allegany2026-03-26T10:00:55","area":"Allegany","outages":"1","customers":"37316","percent_out":"0.0026798156286847465","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Anne_Arundel2026-03-26T10:00:55","area":"Anne Arundel","outages":"4","customers":"264533","percent_out":"0.001512098679559828","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Baltimore2026-03-26T10:00:55","area":"Baltimore","outages":"60","customers":"378018","percent_out":"0.015872260051108675","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Baltimore_City2026-03-26T10:00:55","area":"Baltimore City","outages":"48","customers":"285163","percent_out":"0.01683247826681582","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Calvert2026-03-26T10:00:55","area":"Calvert","outages":"1","customers":"42918","percent_out":"0.0023300246982618017","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Caroline2026-03-26T10:00:55","area":"Caroline","outages":"2","customers":"16568","percent_out":"0.012071463061323031","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Carroll2026-03-26T10:00:55","area":"Carroll","outages":"5","customers":"76717","percent_out":"0.006517460276079618","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Cecil2026-03-26T10:00:55","area":"Cecil","outages":"4","customers":"51848","percent_out":"0.007714858818083628","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Charles2026-03-26T10:00:55","area":"Charles","outages":"13","customers":"76386","percent_out":"0.01701882543921661","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Dorchester2026-03-26T10:00:55","area":"Dorchester","outages":"1","customers":"20332","percent_out":"0.004918355301987015","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Frederick2026-03-26T10:00:55","area":"Frederick","outages":"1","customers":"119979","percent_out":"0.0008334791921919669","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Garrett2026-03-26T10:00:55","area":"Garrett","outages":"2","customers":"21454","percent_out":"0.009322270905192505","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Harford2026-03-26T10:00:55","area":"Harford","outages":"4","customers":"116257","percent_out":"0.0034406530359462227","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Howard2026-03-26T10:00:55","area":"Howard","outages":"4","customers":"140225","percent_out":"0.0028525583883045108","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Kent2026-03-26T10:00:55","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Montgomery2026-03-26T10:00:55","area":"Montgomery","outages":"11","customers":"385645","percent_out":"0.0028523642209804354","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Prince_George's2026-03-26T10:00:55","area":"Prince George's","outages":"16","customers":"355605","percent_out":"0.004499374305760606","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Queen_Anne's2026-03-26T10:00:55","area":"Queen Anne's","outages":"0","customers":"28565","percent_out":"0.0","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Somerset2026-03-26T10:00:55","area":"Somerset","outages":"0","customers":"11531","percent_out":"0.0","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"St._Mary's2026-03-26T10:00:55","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Kent2026-03-14T13:30:56","area":"Kent","outages":"4","customers":"12725","percent_out":"0.03143418467583497","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Montgomery2026-03-14T13:30:56","area":"Montgomery","outages":"18","customers":"385219","percent_out":"0.0046726667168545686","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Allegany2026-03-16T16:01:03","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Prince_George's2026-03-14T13:30:56","area":"Prince George's","outages":"8","customers":"355623","percent_out":"0.0022495732840676786","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Queen_Anne's2026-03-14T13:30:56","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Somerset2026-03-14T13:30:56","area":"Somerset","outages":"336","customers":"11529","percent_out":"2.914389799635701","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"St._Mary's2026-03-14T13:30:56","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Talbot2026-03-14T13:30:56","area":"Talbot","outages":"0","customers":"24043","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Washington2026-03-14T13:30:56","area":"Washington","outages":"0","customers":"54853","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Anne_Arundel2026-03-16T16:01:03","area":"Anne Arundel","outages":"105","customers":"264826","percent_out":"0.03964867497904284","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Baltimore2026-03-16T16:01:03","area":"Baltimore","outages":"142","customers":"378414","percent_out":"0.03752503871421248","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Baltimore_City2026-03-16T16:01:03","area":"Baltimore City","outages":"13","customers":"285474","percent_out":"0.004553829770837274","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Calvert2026-03-16T16:01:03","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Caroline2026-03-16T16:01:03","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Carroll2026-03-16T16:01:03","area":"Carroll","outages":"200","customers":"76726","percent_out":"0.2606678309829784","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Cecil2026-03-16T16:01:03","area":"Cecil","outages":"0","customers":"51862","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Charles2026-03-16T16:01:03","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Dorchester2026-03-16T16:01:03","area":"Dorchester","outages":"0","customers":"20341","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Frederick2026-03-16T16:01:03","area":"Frederick","outages":"101","customers":"120014","percent_out":"0.08415684836769044","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Garrett2026-03-16T16:01:03","area":"Garrett","outages":"1","customers":"21454","percent_out":"0.004661135452596252","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Harford2026-03-16T16:01:03","area":"Harford","outages":"25","customers":"116455","percent_out":"0.021467519642780476","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Howard2026-03-16T16:01:03","area":"Howard","outages":"153","customers":"140375","percent_out":"0.10899376669634908","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Kent2026-03-16T16:01:03","area":"Kent","outages":"0","customers":"12726","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Montgomery2026-03-16T16:01:03","area":"Montgomery","outages":"187","customers":"385216","percent_out":"0.04854419338760591","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Prince_George's2026-03-16T16:01:03","area":"Prince George's","outages":"1136","customers":"355629","percent_out":"0.31943401691088186","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Queen_Anne's2026-03-16T16:01:03","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Somerset2026-03-16T16:01:03","area":"Somerset","outages":"0","customers":"11530","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"St._Mary's2026-03-16T16:01:03","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Talbot2026-03-16T16:01:03","area":"Talbot","outages":"0","customers":"24045","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Washington2026-03-16T16:01:03","area":"Washington","outages":"11","customers":"54853","percent_out":"0.02005359779775035","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Wicomico2026-03-16T16:01:03","area":"Wicomico","outages":"0","customers":"50962","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Allegany2026-03-18T16:15:59","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Anne_Arundel2026-03-18T16:15:59","area":"Anne Arundel","outages":"7","customers":"264788","percent_out":"0.0026436243334290073","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Worcester2026-03-22T13:15:55","area":"Worcester","outages":"0","customers":"60000","percent_out":"0.0","dt_stamp":"2026-03-22T13:15:55.000"}
+,{"uid":"Allegany2026-03-24T05:00:56","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Talbot2026-03-26T10:00:55","area":"Talbot","outages":"1","customers":"24045","percent_out":"0.004158868787689748","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Washington2026-03-26T10:00:55","area":"Washington","outages":"8","customers":"54823","percent_out":"0.01459241559199606","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Baltimore2026-03-18T16:15:59","area":"Baltimore","outages":"19","customers":"378451","percent_out":"0.00502046500075307","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Baltimore_City2026-03-18T16:15:59","area":"Baltimore City","outages":"23","customers":"285485","percent_out":"0.008056465313414016","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Calvert2026-03-18T16:15:59","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Caroline2026-03-18T16:15:59","area":"Caroline","outages":"0","customers":"16579","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Carroll2026-03-18T16:15:59","area":"Carroll","outages":"4","customers":"76735","percent_out":"0.005212745161920896","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Cecil2026-03-18T16:15:59","area":"Cecil","outages":"0","customers":"51862","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Charles2026-03-18T16:15:59","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Anne_Arundel2026-03-24T05:00:56","area":"Anne Arundel","outages":"0","customers":"264716","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Baltimore2026-03-24T05:00:56","area":"Baltimore","outages":"38","customers":"378262","percent_out":"0.01004594698912394","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Baltimore_City2026-03-24T05:00:56","area":"Baltimore City","outages":"4","customers":"285385","percent_out":"0.001401615361704364","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Calvert2026-03-24T05:00:56","area":"Calvert","outages":"0","customers":"42222","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Dorchester2026-03-18T16:15:59","area":"Dorchester","outages":"0","customers":"20340","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Frederick2026-03-18T16:15:59","area":"Frederick","outages":"0","customers":"120014","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Garrett2026-03-18T16:15:59","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Harford2026-03-18T16:15:59","area":"Harford","outages":"0","customers":"116442","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Howard2026-03-18T16:15:59","area":"Howard","outages":"4","customers":"140392","percent_out":"0.002849165194597983","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Kent2026-03-18T16:15:59","area":"Kent","outages":"0","customers":"12726","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Montgomery2026-03-18T16:15:59","area":"Montgomery","outages":"44","customers":"385224","percent_out":"0.011421925944385604","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Prince_George's2026-03-18T16:15:59","area":"Prince George's","outages":"20","customers":"355619","percent_out":"0.005623996468130218","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Queen_Anne's2026-03-18T16:15:59","area":"Queen Anne's","outages":"0","customers":"28557","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Somerset2026-03-18T16:15:59","area":"Somerset","outages":"0","customers":"11532","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"St._Mary's2026-03-18T16:15:59","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Talbot2026-03-18T16:15:59","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Washington2026-03-18T16:15:59","area":"Washington","outages":"1","customers":"54853","percent_out":"0.001823054345250032","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Wicomico2026-03-18T16:15:59","area":"Wicomico","outages":"22","customers":"50962","percent_out":"0.04316942035241945","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Worcester2026-03-18T16:15:59","area":"Worcester","outages":"0","customers":"59992","percent_out":"0.0","dt_stamp":"2026-03-18T16:15:59.000"}
+,{"uid":"Allegany2026-03-18T16:30:57","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Allegany2026-03-20T17:30:57","area":"Allegany","outages":"0","customers":"37328","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Anne_Arundel2026-03-18T16:30:57","area":"Anne Arundel","outages":"7","customers":"264788","percent_out":"0.0026436243334290073","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Baltimore2026-03-18T16:30:57","area":"Baltimore","outages":"21","customers":"378451","percent_out":"0.00554893500083234","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Baltimore_City2026-03-18T16:30:57","area":"Baltimore City","outages":"24","customers":"285485","percent_out":"0.008406746413997232","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Calvert2026-03-18T16:30:57","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Caroline2026-03-18T16:30:57","area":"Caroline","outages":"0","customers":"16579","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Carroll2026-03-18T16:30:57","area":"Carroll","outages":"4","customers":"76735","percent_out":"0.005212745161920896","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Cecil2026-03-18T16:30:57","area":"Cecil","outages":"0","customers":"51862","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Charles2026-03-18T16:30:57","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Dorchester2026-03-18T16:30:57","area":"Dorchester","outages":"0","customers":"20340","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Frederick2026-03-18T16:30:57","area":"Frederick","outages":"0","customers":"120014","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Garrett2026-03-18T16:30:57","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Harford2026-03-18T16:30:57","area":"Harford","outages":"0","customers":"116442","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Howard2026-03-18T16:30:57","area":"Howard","outages":"4","customers":"140392","percent_out":"0.002849165194597983","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Kent2026-03-18T16:30:57","area":"Kent","outages":"0","customers":"12726","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Allegany2026-04-01T09:00:54","area":"Allegany","outages":"0","customers":"37312","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Anne_Arundel2026-04-01T09:00:54","area":"Anne Arundel","outages":"11","customers":"264502","percent_out":"0.004158758723941596","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Baltimore2026-04-01T09:00:54","area":"Baltimore","outages":"30","customers":"378032","percent_out":"0.007935836119693571","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Baltimore_City2026-04-01T09:00:54","area":"Baltimore City","outages":"5","customers":"285041","percent_out":"0.0017541336158657876","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Calvert2026-04-01T09:00:54","area":"Calvert","outages":"1","customers":"42044","percent_out":"0.0023784606602606792","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Caroline2026-04-01T09:00:54","area":"Caroline","outages":"1","customers":"16574","percent_out":"0.006033546518643659","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Carroll2026-04-01T09:00:54","area":"Carroll","outages":"4","customers":"76706","percent_out":"0.005214715928349803","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Cecil2026-04-01T09:00:54","area":"Cecil","outages":"0","customers":"51841","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Charles2026-04-01T09:00:54","area":"Charles","outages":"61","customers":"75720","percent_out":"0.08055995773903857","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Dorchester2026-04-01T09:00:54","area":"Dorchester","outages":"10","customers":"20321","percent_out":"0.04921017666453423","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Montgomery2026-03-18T16:30:57","area":"Montgomery","outages":"14","customers":"385224","percent_out":"0.003634249164122692","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Prince_George's2026-03-18T16:30:57","area":"Prince George's","outages":"20","customers":"355619","percent_out":"0.005623996468130218","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Queen_Anne's2026-03-18T16:30:57","area":"Queen Anne's","outages":"0","customers":"28557","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Somerset2026-03-18T16:30:57","area":"Somerset","outages":"0","customers":"11532","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Allegany2026-03-22T13:30:56","area":"Allegany","outages":"0","customers":"37328","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Anne_Arundel2026-03-22T13:30:56","area":"Anne Arundel","outages":"4","customers":"264775","percent_out":"0.0015107166462090455","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Baltimore2026-03-22T13:30:56","area":"Baltimore","outages":"4","customers":"378370","percent_out":"0.0010571662658244575","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Baltimore_City2026-03-22T13:30:56","area":"Baltimore City","outages":"4","customers":"285416","percent_out":"0.0014014631275051153","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Calvert2026-03-22T13:30:56","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Caroline2026-03-22T13:30:56","area":"Caroline","outages":"0","customers":"16570","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Carroll2026-03-22T13:30:56","area":"Carroll","outages":"5","customers":"76733","percent_out":"0.006516101286278394","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Cecil2026-03-22T13:30:56","area":"Cecil","outages":"0","customers":"51857","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Charles2026-03-22T13:30:56","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Dorchester2026-03-22T13:30:56","area":"Dorchester","outages":"0","customers":"20334","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Frederick2026-03-22T13:30:56","area":"Frederick","outages":"0","customers":"120003","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Garrett2026-03-22T13:30:56","area":"Garrett","outages":"0","customers":"21451","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Harford2026-03-22T13:30:56","area":"Harford","outages":"0","customers":"116390","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Howard2026-03-22T13:30:56","area":"Howard","outages":"4","customers":"140364","percent_out":"0.002849733549913083","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Kent2026-03-22T13:30:56","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Montgomery2026-03-22T13:30:56","area":"Montgomery","outages":"0","customers":"385196","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Prince_George's2026-03-22T13:30:56","area":"Prince George's","outages":"4","customers":"355613","percent_out":"0.0011248182715480031","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Allegany2026-03-24T10:00:58","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Anne_Arundel2026-03-24T10:00:58","area":"Anne Arundel","outages":"17","customers":"264716","percent_out":"0.006421976759999396","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Baltimore2026-03-24T10:00:58","area":"Baltimore","outages":"4","customers":"378262","percent_out":"0.0010574681041183095","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Wicomico2026-03-26T10:00:55","area":"Wicomico","outages":"6","customers":"50942","percent_out":"0.011778100584978995","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Allegany2026-03-28T10:15:55","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Anne_Arundel2026-03-28T10:15:55","area":"Anne Arundel","outages":"4","customers":"264535","percent_out":"0.001512087247434177","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Baltimore2026-03-28T10:15:55","area":"Baltimore","outages":"4","customers":"377965","percent_out":"0.0010582990488537298","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Baltimore_City2026-03-28T10:15:55","area":"Baltimore City","outages":"4","customers":"285094","percent_out":"0.001403046012893993","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Calvert2026-03-28T10:15:55","area":"Calvert","outages":"0","customers":"42926","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Caroline2026-03-28T10:15:55","area":"Caroline","outages":"0","customers":"16572","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Carroll2026-03-28T10:15:55","area":"Carroll","outages":"4","customers":"76710","percent_out":"0.005214444009907443","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Cecil2026-03-28T10:15:55","area":"Cecil","outages":"0","customers":"51839","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Charles2026-03-28T10:15:55","area":"Charles","outages":"0","customers":"76386","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Dorchester2026-03-28T10:15:55","area":"Dorchester","outages":"0","customers":"20329","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Frederick2026-03-28T10:15:55","area":"Frederick","outages":"0","customers":"119984","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"St._Mary's2026-03-18T16:30:57","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Frederick2026-04-01T09:00:54","area":"Frederick","outages":"13","customers":"119947","percent_out":"0.010838120169741635","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Garrett2026-04-01T09:00:54","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Harford2026-04-01T09:00:54","area":"Harford","outages":"0","customers":"116241","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Howard2026-04-01T09:00:54","area":"Howard","outages":"4","customers":"140213","percent_out":"0.002852802521877429","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Kent2026-04-01T09:00:54","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Montgomery2026-04-01T09:00:54","area":"Montgomery","outages":"19","customers":"385537","percent_out":"0.0049281910685615125","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Prince_George's2026-04-01T09:00:54","area":"Prince George's","outages":"4","customers":"355442","percent_out":"0.0011253594116620996","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Queen_Anne's2026-04-01T09:00:54","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Somerset2026-04-01T09:00:54","area":"Somerset","outages":"0","customers":"11533","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"St._Mary's2026-04-01T09:00:54","area":"St. Mary's","outages":"0","customers":"54027","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Worcester2026-03-16T16:01:03","area":"Worcester","outages":"0","customers":"59994","percent_out":"0.0","dt_stamp":"2026-03-16T16:01:03.000"}
+,{"uid":"Allegany2026-03-18T08:45:57","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Anne_Arundel2026-03-18T08:45:57","area":"Anne Arundel","outages":"4","customers":"264788","percent_out":"0.001510642476245147","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Anne_Arundel2026-03-20T17:30:57","area":"Anne Arundel","outages":"4","customers":"264726","percent_out":"0.0015109962753941811","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Queen_Anne's2026-03-22T13:30:56","area":"Queen Anne's","outages":"4","customers":"28554","percent_out":"0.014008545212579673","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Somerset2026-03-22T13:30:56","area":"Somerset","outages":"4","customers":"11534","percent_out":"0.03468007629616785","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Baltimore_City2026-03-24T10:00:58","area":"Baltimore City","outages":"10","customers":"285385","percent_out":"0.0035040384042609105","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Worcester2026-03-26T10:00:55","area":"Worcester","outages":"9","customers":"60000","percent_out":"0.015","dt_stamp":"2026-03-26T10:00:55.000"}
+,{"uid":"Allegany2026-03-28T04:30:53","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Anne_Arundel2026-03-28T04:30:53","area":"Anne Arundel","outages":"7","customers":"264535","percent_out":"0.00264615268300981","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Baltimore2026-03-28T04:30:53","area":"Baltimore","outages":"4","customers":"377965","percent_out":"0.0010582990488537298","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Baltimore_City2026-03-28T04:30:53","area":"Baltimore City","outages":"4","customers":"285094","percent_out":"0.001403046012893993","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Calvert2026-03-28T04:30:53","area":"Calvert","outages":"0","customers":"42926","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Caroline2026-03-28T04:30:53","area":"Caroline","outages":"0","customers":"16572","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Carroll2026-03-28T04:30:53","area":"Carroll","outages":"4","customers":"76710","percent_out":"0.005214444009907443","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Garrett2026-03-28T10:15:55","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Harford2026-03-28T10:15:55","area":"Harford","outages":"4","customers":"116265","percent_out":"0.003440416290371135","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Howard2026-03-28T10:15:55","area":"Howard","outages":"4","customers":"140196","percent_out":"0.0028531484493138177","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Kent2026-03-28T10:15:55","area":"Kent","outages":"0","customers":"12712","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Montgomery2026-03-28T10:15:55","area":"Montgomery","outages":"11","customers":"385644","percent_out":"0.002852371617346568","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Talbot2026-04-01T09:00:54","area":"Talbot","outages":"0","customers":"24045","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Washington2026-04-01T09:00:54","area":"Washington","outages":"0","customers":"54823","percent_out":"0.0","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Allegany2026-03-12T14:00:59","area":"Allegany","outages":"3","customers":"37316","percent_out":"0.008039446886054239","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Anne_Arundel2026-03-12T14:00:59","area":"Anne Arundel","outages":"338","customers":"264835","percent_out":"0.12762663545226272","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Baltimore2026-03-12T14:00:59","area":"Baltimore","outages":"624","customers":"378360","percent_out":"0.1649222962258167","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Baltimore_City2026-03-12T14:00:59","area":"Baltimore City","outages":"205","customers":"285459","percent_out":"0.07181416595728284","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Calvert2026-03-12T14:00:59","area":"Calvert","outages":"1","customers":"42225","percent_out":"0.002368265245707519","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Caroline2026-03-12T14:00:59","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Talbot2026-03-18T16:30:57","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Calvert2026-03-24T10:00:58","area":"Calvert","outages":"18","customers":"42222","percent_out":"0.04263180332528066","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Caroline2026-03-24T10:00:58","area":"Caroline","outages":"0","customers":"16571","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Carroll2026-03-24T10:00:58","area":"Carroll","outages":"4","customers":"76712","percent_out":"0.005214308061320263","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Cecil2026-03-24T10:00:58","area":"Cecil","outages":"212","customers":"51855","percent_out":"0.40883232089480276","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Charles2026-03-24T10:00:58","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Dorchester2026-03-24T10:00:58","area":"Dorchester","outages":"6","customers":"20336","percent_out":"0.029504327301337528","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Frederick2026-03-24T10:00:58","area":"Frederick","outages":"1","customers":"119976","percent_out":"0.0008335000333400014","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Garrett2026-03-24T10:00:58","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Harford2026-03-24T10:00:58","area":"Harford","outages":"4","customers":"116349","percent_out":"0.0034379324274381386","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Howard2026-03-24T10:00:58","area":"Howard","outages":"0","customers":"140312","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Kent2026-03-24T10:00:58","area":"Kent","outages":"0","customers":"12715","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Cecil2026-03-28T04:30:53","area":"Cecil","outages":"0","customers":"51840","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Charles2026-03-28T04:30:53","area":"Charles","outages":"0","customers":"76386","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Dorchester2026-03-28T04:30:53","area":"Dorchester","outages":"0","customers":"20329","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Frederick2026-03-28T04:30:53","area":"Frederick","outages":"0","customers":"119979","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Garrett2026-03-28T04:30:53","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Harford2026-03-28T04:30:53","area":"Harford","outages":"4","customers":"116265","percent_out":"0.003440416290371135","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Howard2026-03-28T04:30:53","area":"Howard","outages":"4","customers":"140196","percent_out":"0.0028531484493138177","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Kent2026-03-28T04:30:53","area":"Kent","outages":"0","customers":"12712","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Montgomery2026-03-28T04:30:53","area":"Montgomery","outages":"4","customers":"385644","percent_out":"0.0010372260426714792","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Prince_George's2026-03-28T04:30:53","area":"Prince George's","outages":"4","customers":"355588","percent_out":"0.0011248973531165281","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Prince_George's2026-03-28T10:15:55","area":"Prince George's","outages":"0","customers":"355588","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Baltimore2026-03-20T17:30:57","area":"Baltimore","outages":"161","customers":"378270","percent_out":"0.042562191027572895","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Baltimore_City2026-03-20T17:30:57","area":"Baltimore City","outages":"305","customers":"285356","percent_out":"0.10688403257685136","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"St._Mary's2026-03-22T13:30:56","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Talbot2026-03-22T13:30:56","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Washington2026-03-22T13:30:56","area":"Washington","outages":"4","customers":"54834","percent_out":"0.0072947441368494004","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Wicomico2026-03-22T13:30:56","area":"Wicomico","outages":"0","customers":"50949","percent_out":"0.0","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Worcester2026-03-22T13:30:56","area":"Worcester","outages":"1","customers":"60000","percent_out":"0.0016666666666666668","dt_stamp":"2026-03-22T13:30:56.000"}
+,{"uid":"Caroline2026-03-24T05:00:56","area":"Caroline","outages":"0","customers":"16568","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Carroll2026-03-24T05:00:56","area":"Carroll","outages":"4","customers":"76712","percent_out":"0.005214308061320263","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Cecil2026-03-24T05:00:56","area":"Cecil","outages":"166","customers":"51855","percent_out":"0.320123421078006","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Charles2026-03-24T05:00:56","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Dorchester2026-03-24T05:00:56","area":"Dorchester","outages":"0","customers":"20333","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Frederick2026-03-24T05:00:56","area":"Frederick","outages":"0","customers":"119976","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Garrett2026-03-24T05:00:56","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Wicomico2026-03-14T13:30:56","area":"Wicomico","outages":"0","customers":"50964","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Allegany2026-03-16T16:15:57","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Anne_Arundel2026-03-16T16:15:57","area":"Anne Arundel","outages":"108","customers":"264826","percent_out":"0.040781494264158356","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Baltimore2026-03-16T16:15:57","area":"Baltimore","outages":"142","customers":"378414","percent_out":"0.03752503871421248","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Baltimore_City2026-03-16T16:15:57","area":"Baltimore City","outages":"11","customers":"285474","percent_out":"0.003853240575323847","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Calvert2026-03-16T16:15:57","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Caroline2026-03-16T16:15:57","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Carroll2026-03-16T16:15:57","area":"Carroll","outages":"201","customers":"76726","percent_out":"0.2619711701378933","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Cecil2026-03-16T16:15:57","area":"Cecil","outages":"4","customers":"51862","percent_out":"0.007712776213798157","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Charles2026-03-16T16:15:57","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Dorchester2026-03-16T16:15:57","area":"Dorchester","outages":"0","customers":"20341","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Frederick2026-03-16T16:15:57","area":"Frederick","outages":"1","customers":"120014","percent_out":"0.0008332361224523806","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Garrett2026-03-16T16:15:57","area":"Garrett","outages":"1","customers":"21454","percent_out":"0.004661135452596252","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Harford2026-03-16T16:15:57","area":"Harford","outages":"12","customers":"116455","percent_out":"0.010304409428534627","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Howard2026-03-16T16:15:57","area":"Howard","outages":"527","customers":"140375","percent_out":"0.37542297417631343","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Kent2026-03-16T16:15:57","area":"Kent","outages":"0","customers":"12726","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Montgomery2026-03-16T16:15:57","area":"Montgomery","outages":"187","customers":"385216","percent_out":"0.04854419338760591","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Prince_George's2026-03-16T16:15:57","area":"Prince George's","outages":"1145","customers":"355629","percent_out":"0.32196474415753495","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Harford2026-03-24T05:00:56","area":"Harford","outages":"0","customers":"116349","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Howard2026-03-24T05:00:56","area":"Howard","outages":"0","customers":"140312","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Kent2026-03-24T05:00:56","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Montgomery2026-03-24T05:00:56","area":"Montgomery","outages":"0","customers":"385700","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Prince_George's2026-03-24T05:00:56","area":"Prince George's","outages":"1","customers":"355844","percent_out":"0.0002810220208855566","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Queen_Anne's2026-03-24T05:00:56","area":"Queen Anne's","outages":"0","customers":"28554","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Somerset2026-03-24T05:00:56","area":"Somerset","outages":"0","customers":"11535","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"St._Mary's2026-03-24T05:00:56","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Talbot2026-03-24T05:00:56","area":"Talbot","outages":"0","customers":"24054","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Washington2026-03-24T05:00:56","area":"Washington","outages":"0","customers":"54822","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Wicomico2026-03-24T05:00:56","area":"Wicomico","outages":"0","customers":"50951","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Queen_Anne's2026-03-28T04:30:53","area":"Queen Anne's","outages":"0","customers":"28578","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Carroll2026-03-12T14:00:59","area":"Carroll","outages":"78","customers":"76728","percent_out":"0.10165780419142947","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Cecil2026-03-12T14:00:59","area":"Cecil","outages":"5","customers":"51860","percent_out":"0.009641342074816815","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Charles2026-03-12T14:00:59","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Dorchester2026-03-12T14:00:59","area":"Dorchester","outages":"0","customers":"20342","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Frederick2026-03-12T14:00:59","area":"Frederick","outages":"27","customers":"120006","percent_out":"0.022498875056247186","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Garrett2026-03-12T14:00:59","area":"Garrett","outages":"2","customers":"21454","percent_out":"0.009322270905192505","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Harford2026-03-12T14:00:59","area":"Harford","outages":"4","customers":"116492","percent_out":"0.0034337121862445487","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Howard2026-03-12T14:00:59","area":"Howard","outages":"749","customers":"140361","percent_out":"0.533624012368108","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Kent2026-03-12T14:00:59","area":"Kent","outages":"0","customers":"12725","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Montgomery2026-03-12T14:00:59","area":"Montgomery","outages":"57","customers":"385210","percent_out":"0.014797123646841982","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Prince_George's2026-03-12T14:00:59","area":"Prince George's","outages":"24","customers":"355636","percent_out":"0.0067484731579480145","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Queen_Anne's2026-03-12T14:00:59","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Somerset2026-03-12T14:00:59","area":"Somerset","outages":"0","customers":"11530","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"St._Mary's2026-03-12T14:00:59","area":"St. Mary's","outages":"7","customers":"55538","percent_out":"0.012603982858583314","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Talbot2026-03-12T14:00:59","area":"Talbot","outages":"0","customers":"24043","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Queen_Anne's2026-03-16T16:15:57","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Somerset2026-03-16T16:15:57","area":"Somerset","outages":"0","customers":"11530","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Allegany2026-03-22T13:45:53","area":"Allegany","outages":"0","customers":"37328","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Allegany2026-03-26T10:15:54","area":"Allegany","outages":"1","customers":"37316","percent_out":"0.0026798156286847465","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Anne_Arundel2026-03-26T10:15:54","area":"Anne Arundel","outages":"4","customers":"264533","percent_out":"0.001512098679559828","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Baltimore2026-03-26T10:15:54","area":"Baltimore","outages":"16","customers":"378018","percent_out":"0.004232602680295647","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Baltimore_City2026-03-26T10:15:54","area":"Baltimore City","outages":"46","customers":"285163","percent_out":"0.016131125005698493","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Calvert2026-03-26T10:15:54","area":"Calvert","outages":"2","customers":"42918","percent_out":"0.004660049396523603","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Caroline2026-03-26T10:15:54","area":"Caroline","outages":"1","customers":"16568","percent_out":"0.0060357315306615155","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Queen_Anne's2026-03-28T10:15:55","area":"Queen Anne's","outages":"0","customers":"28579","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Somerset2026-03-28T10:15:55","area":"Somerset","outages":"1","customers":"11532","percent_out":"0.008671522719389525","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"St._Mary's2026-03-28T10:15:55","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Talbot2026-03-28T10:15:55","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Allegany2026-03-30T12:30:54","area":"Allegany","outages":"1","customers":"37312","percent_out":"0.0026801029159519724","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Anne_Arundel2026-03-30T12:30:54","area":"Anne Arundel","outages":"9","customers":"264559","percent_out":"0.003401887669669148","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Baltimore2026-03-30T12:30:54","area":"Baltimore","outages":"15","customers":"378015","percent_out":"0.00396809650410698","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Baltimore_City2026-03-30T12:30:54","area":"Baltimore City","outages":"47","customers":"285135","percent_out":"0.01648342013432234","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Calvert2026-03-30T12:30:54","area":"Calvert","outages":"0","customers":"42041","percent_out":"0.0","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Caroline2026-03-30T12:30:54","area":"Caroline","outages":"0","customers":"16574","percent_out":"0.0","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Carroll2026-03-30T12:30:54","area":"Carroll","outages":"6","customers":"76701","percent_out":"0.007822583799428951","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Cecil2026-03-30T12:30:54","area":"Cecil","outages":"4","customers":"51845","percent_out":"0.007715305236763429","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Charles2026-03-30T12:30:54","area":"Charles","outages":"0","customers":"75720","percent_out":"0.0","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Dorchester2026-03-30T12:30:54","area":"Dorchester","outages":"2","customers":"20327","percent_out":"0.009839130220888474","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Frederick2026-03-30T12:30:54","area":"Frederick","outages":"1","customers":"119946","percent_out":"0.0008337085021593051","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Garrett2026-03-30T12:30:54","area":"Garrett","outages":"1","customers":"21454","percent_out":"0.004661135452596252","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Harford2026-03-30T12:30:54","area":"Harford","outages":"117","customers":"116233","percent_out":"0.10065988144502852","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Howard2026-03-30T12:30:54","area":"Howard","outages":"8","customers":"140209","percent_out":"0.005705767818043064","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Kent2026-03-30T12:30:54","area":"Kent","outages":"4","customers":"12714","percent_out":"0.031461381154632685","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"St._Mary's2026-03-16T16:15:57","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Talbot2026-03-16T16:15:57","area":"Talbot","outages":"0","customers":"24045","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Washington2026-03-18T16:30:57","area":"Washington","outages":"1","customers":"54853","percent_out":"0.001823054345250032","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Anne_Arundel2026-03-22T13:45:53","area":"Anne Arundel","outages":"4","customers":"264775","percent_out":"0.0015107166462090455","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Baltimore2026-03-22T13:45:53","area":"Baltimore","outages":"4","customers":"378370","percent_out":"0.0010571662658244575","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Baltimore_City2026-03-22T13:45:53","area":"Baltimore City","outages":"4","customers":"285416","percent_out":"0.0014014631275051153","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Calvert2026-03-22T13:45:53","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Caroline2026-03-22T13:45:53","area":"Caroline","outages":"0","customers":"16570","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Carroll2026-03-22T13:45:53","area":"Carroll","outages":"5","customers":"76733","percent_out":"0.006516101286278394","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Cecil2026-03-22T13:45:53","area":"Cecil","outages":"0","customers":"51857","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Charles2026-03-22T13:45:53","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Dorchester2026-03-22T13:45:53","area":"Dorchester","outages":"0","customers":"20334","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Frederick2026-03-22T13:45:53","area":"Frederick","outages":"0","customers":"120003","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Garrett2026-03-22T13:45:53","area":"Garrett","outages":"0","customers":"21451","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Harford2026-03-22T13:45:53","area":"Harford","outages":"0","customers":"116390","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Washington2026-03-28T10:15:55","area":"Washington","outages":"0","customers":"54832","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Wicomico2026-03-28T10:15:55","area":"Wicomico","outages":"46","customers":"50945","percent_out":"0.09029345372460496","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Worcester2026-03-28T10:15:55","area":"Worcester","outages":"0","customers":"60009","percent_out":"0.0","dt_stamp":"2026-03-28T10:15:55.000"}
+,{"uid":"Allegany2026-03-30T02:30:59","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Anne_Arundel2026-03-30T02:30:59","area":"Anne Arundel","outages":"19","customers":"264559","percent_out":"0.007181762858190423","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Baltimore2026-03-30T02:30:59","area":"Baltimore","outages":"25","customers":"378015","percent_out":"0.006613494173511633","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Baltimore_City2026-03-30T02:30:59","area":"Baltimore City","outages":"18","customers":"285135","percent_out":"0.006312799200378767","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Calvert2026-03-30T02:30:59","area":"Calvert","outages":"0","customers":"42041","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Caroline2026-03-30T02:30:59","area":"Caroline","outages":"0","customers":"16575","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Carroll2026-03-30T02:30:59","area":"Carroll","outages":"9","customers":"76708","percent_out":"0.011732804922563489","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Cecil2026-03-30T02:30:59","area":"Cecil","outages":"0","customers":"51845","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Charles2026-03-30T02:30:59","area":"Charles","outages":"0","customers":"75720","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Dorchester2026-03-30T02:30:59","area":"Dorchester","outages":"0","customers":"20327","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Frederick2026-03-30T02:30:59","area":"Frederick","outages":"0","customers":"119984","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Garrett2026-03-30T02:30:59","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Harford2026-03-30T02:30:59","area":"Harford","outages":"0","customers":"116233","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Howard2026-03-30T02:30:59","area":"Howard","outages":"0","customers":"140210","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Kent2026-03-30T02:30:59","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Carroll2026-03-26T10:15:54","area":"Carroll","outages":"5","customers":"76717","percent_out":"0.006517460276079618","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Cecil2026-03-26T10:15:54","area":"Cecil","outages":"4","customers":"51848","percent_out":"0.007714858818083628","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Charles2026-03-26T10:15:54","area":"Charles","outages":"13","customers":"76386","percent_out":"0.01701882543921661","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Dorchester2026-03-26T10:15:54","area":"Dorchester","outages":"1","customers":"20332","percent_out":"0.004918355301987015","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Frederick2026-03-26T10:15:54","area":"Frederick","outages":"1","customers":"119979","percent_out":"0.0008334791921919669","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Garrett2026-03-26T10:15:54","area":"Garrett","outages":"2","customers":"21454","percent_out":"0.009322270905192505","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Harford2026-03-26T10:15:54","area":"Harford","outages":"4","customers":"116257","percent_out":"0.0034406530359462227","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Howard2026-03-26T10:15:54","area":"Howard","outages":"11","customers":"140225","percent_out":"0.007844535567837404","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Kent2026-03-26T10:15:54","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Montgomery2026-03-26T10:15:54","area":"Montgomery","outages":"10","customers":"385645","percent_out":"0.002593058382709487","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Prince_George's2026-03-26T10:15:54","area":"Prince George's","outages":"10","customers":"355605","percent_out":"0.002812108941100378","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Queen_Anne's2026-03-26T10:15:54","area":"Queen Anne's","outages":"0","customers":"28565","percent_out":"0.0","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Somerset2026-03-26T10:15:54","area":"Somerset","outages":"0","customers":"11531","percent_out":"0.0","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"St._Mary's2026-03-26T10:15:54","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Talbot2026-03-26T10:15:54","area":"Talbot","outages":"1","customers":"24045","percent_out":"0.004158868787689748","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Allegany2026-03-28T10:30:54","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Anne_Arundel2026-03-28T10:30:54","area":"Anne Arundel","outages":"4","customers":"264535","percent_out":"0.001512087247434177","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Wicomico2026-03-18T16:30:57","area":"Wicomico","outages":"0","customers":"50962","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Worcester2026-03-18T16:30:57","area":"Worcester","outages":"0","customers":"59992","percent_out":"0.0","dt_stamp":"2026-03-18T16:30:57.000"}
+,{"uid":"Montgomery2026-03-20T09:15:58","area":"Montgomery","outages":"4","customers":"385199","percent_out":"0.0010384242949748052","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Prince_George's2026-03-20T09:15:58","area":"Prince George's","outages":"11","customers":"355607","percent_out":"0.0030933024378035304","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Queen_Anne's2026-03-20T09:15:58","area":"Queen Anne's","outages":"4","customers":"28562","percent_out":"0.014004621525103286","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Somerset2026-03-20T09:15:58","area":"Somerset","outages":"0","customers":"11529","percent_out":"0.0","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"St._Mary's2026-03-20T09:15:58","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Talbot2026-03-20T09:15:58","area":"Talbot","outages":"1","customers":"24050","percent_out":"0.004158004158004158","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Washington2026-03-20T09:15:58","area":"Washington","outages":"0","customers":"54834","percent_out":"0.0","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Wicomico2026-03-20T09:15:58","area":"Wicomico","outages":"0","customers":"50959","percent_out":"0.0","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Worcester2026-03-20T09:15:58","area":"Worcester","outages":"1","customers":"60000","percent_out":"0.0016666666666666668","dt_stamp":"2026-03-20T09:15:58.000"}
+,{"uid":"Calvert2026-03-20T17:30:57","area":"Calvert","outages":"0","customers":"42223","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Caroline2026-03-20T17:30:57","area":"Caroline","outages":"22","customers":"16566","percent_out":"0.13280212483399734","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Carroll2026-03-20T17:30:57","area":"Carroll","outages":"4","customers":"76723","percent_out":"0.00521356047078451","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Cecil2026-03-20T17:30:57","area":"Cecil","outages":"4","customers":"51859","percent_out":"0.007713222391484602","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Charles2026-03-20T17:30:57","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Dorchester2026-03-20T17:30:57","area":"Dorchester","outages":"0","customers":"20338","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Frederick2026-03-20T17:30:57","area":"Frederick","outages":"0","customers":"120001","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Garrett2026-03-20T17:30:57","area":"Garrett","outages":"261","customers":"21451","percent_out":"1.2167264929373922","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Howard2026-03-22T13:45:53","area":"Howard","outages":"4","customers":"140364","percent_out":"0.002849733549913083","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Kent2026-03-22T13:45:53","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Montgomery2026-03-22T13:45:53","area":"Montgomery","outages":"0","customers":"385196","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Prince_George's2026-03-22T13:45:53","area":"Prince George's","outages":"4","customers":"355613","percent_out":"0.0011248182715480031","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Queen_Anne's2026-03-22T13:45:53","area":"Queen Anne's","outages":"4","customers":"28554","percent_out":"0.014008545212579673","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Somerset2026-03-22T13:45:53","area":"Somerset","outages":"0","customers":"11534","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Washington2026-03-26T10:15:54","area":"Washington","outages":"8","customers":"54823","percent_out":"0.01459241559199606","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Wicomico2026-03-26T10:15:54","area":"Wicomico","outages":"7","customers":"50942","percent_out":"0.01374111734914216","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Worcester2026-03-26T10:15:54","area":"Worcester","outages":"9","customers":"60000","percent_out":"0.015","dt_stamp":"2026-03-26T10:15:54.000"}
+,{"uid":"Somerset2026-03-28T04:30:53","area":"Somerset","outages":"0","customers":"11532","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"St._Mary's2026-03-28T04:30:53","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Talbot2026-03-28T04:30:53","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Washington2026-03-28T04:30:53","area":"Washington","outages":"0","customers":"54828","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Wicomico2026-03-28T04:30:53","area":"Wicomico","outages":"0","customers":"50945","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Worcester2026-03-28T04:30:53","area":"Worcester","outages":"0","customers":"60010","percent_out":"0.0","dt_stamp":"2026-03-28T04:30:53.000"}
+,{"uid":"Baltimore2026-03-28T10:30:54","area":"Baltimore","outages":"4","customers":"377965","percent_out":"0.0010582990488537298","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Baltimore_City2026-03-28T10:30:54","area":"Baltimore City","outages":"4","customers":"285094","percent_out":"0.001403046012893993","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Calvert2026-03-28T10:30:54","area":"Calvert","outages":"0","customers":"42926","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Caroline2026-03-28T10:30:54","area":"Caroline","outages":"0","customers":"16572","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Carroll2026-03-28T10:30:54","area":"Carroll","outages":"4","customers":"76710","percent_out":"0.005214444009907443","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Cecil2026-03-28T10:30:54","area":"Cecil","outages":"0","customers":"51839","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Charles2026-03-28T10:30:54","area":"Charles","outages":"0","customers":"76386","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Dorchester2026-03-28T10:30:54","area":"Dorchester","outages":"0","customers":"20329","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Frederick2026-03-28T10:30:54","area":"Frederick","outages":"0","customers":"119984","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Garrett2026-03-28T10:30:54","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Montgomery2026-03-24T10:00:58","area":"Montgomery","outages":"4","customers":"385700","percent_out":"0.0010370754472387865","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Prince_George's2026-03-24T10:00:58","area":"Prince George's","outages":"99","customers":"355844","percent_out":"0.027821180067670103","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Queen_Anne's2026-03-24T10:00:58","area":"Queen Anne's","outages":"4","customers":"28554","percent_out":"0.014008545212579673","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Somerset2026-03-24T10:00:58","area":"Somerset","outages":"0","customers":"11535","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"St._Mary's2026-03-24T10:00:58","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Talbot2026-03-24T10:00:58","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Washington2026-03-24T10:00:58","area":"Washington","outages":"7","customers":"54822","percent_out":"0.012768596548830762","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Harford2026-03-28T10:30:54","area":"Harford","outages":"4","customers":"116265","percent_out":"0.003440416290371135","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Howard2026-03-28T10:30:54","area":"Howard","outages":"4","customers":"140196","percent_out":"0.0028531484493138177","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Kent2026-03-28T10:30:54","area":"Kent","outages":"0","customers":"12712","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Montgomery2026-03-30T12:30:54","area":"Montgomery","outages":"6","customers":"385629","percent_out":"0.0015558995822409622","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Worcester2026-03-14T13:30:56","area":"Worcester","outages":"0","customers":"59992","percent_out":"0.0","dt_stamp":"2026-03-14T13:30:56.000"}
+,{"uid":"Baltimore_City2026-03-16T05:45:56","area":"Baltimore City","outages":"4","customers":"285474","percent_out":"0.0014011783910268536","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Washington2026-03-16T16:15:57","area":"Washington","outages":"5","customers":"54853","percent_out":"0.00911527172625016","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Wicomico2026-03-16T16:15:57","area":"Wicomico","outages":"0","customers":"50962","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Worcester2026-03-16T16:15:57","area":"Worcester","outages":"0","customers":"59994","percent_out":"0.0","dt_stamp":"2026-03-16T16:15:57.000"}
+,{"uid":"Baltimore2026-03-18T08:45:57","area":"Baltimore","outages":"10","customers":"378451","percent_out":"0.002642350000396352","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Baltimore_City2026-03-18T08:45:57","area":"Baltimore City","outages":"7","customers":"285485","percent_out":"0.0024519677040825264","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Calvert2026-03-18T08:45:57","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Harford2026-03-20T17:30:57","area":"Harford","outages":"10","customers":"116434","percent_out":"0.008588556607176598","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Howard2026-03-20T17:30:57","area":"Howard","outages":"6","customers":"140336","percent_out":"0.004275453198038992","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Kent2026-03-20T17:30:57","area":"Kent","outages":"0","customers":"12722","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Montgomery2026-03-20T17:30:57","area":"Montgomery","outages":"1","customers":"385199","percent_out":"0.0002596060737437013","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Prince_George's2026-03-20T17:30:57","area":"Prince George's","outages":"10","customers":"355607","percent_out":"0.0028120931252759366","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Queen_Anne's2026-03-20T17:30:57","area":"Queen Anne's","outages":"0","customers":"28562","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Somerset2026-03-20T17:30:57","area":"Somerset","outages":"0","customers":"11529","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"St._Mary's2026-03-20T17:30:57","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Talbot2026-03-20T17:30:57","area":"Talbot","outages":"0","customers":"24050","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Washington2026-03-20T17:30:57","area":"Washington","outages":"32","customers":"54834","percent_out":"0.058357953094795204","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Wicomico2026-03-20T17:30:57","area":"Wicomico","outages":"0","customers":"50960","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Worcester2026-03-20T17:30:57","area":"Worcester","outages":"0","customers":"60002","percent_out":"0.0","dt_stamp":"2026-03-20T17:30:57.000"}
+,{"uid":"Calvert2026-03-22T08:15:55","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Caroline2026-03-22T08:15:55","area":"Caroline","outages":"0","customers":"16570","percent_out":"0.0","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Carroll2026-03-22T08:15:55","area":"Carroll","outages":"4","customers":"76733","percent_out":"0.005212881029022716","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Prince_George's2026-03-30T12:30:54","area":"Prince George's","outages":"8","customers":"355592","percent_out":"0.0022497693986366397","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Queen_Anne's2026-03-30T12:30:54","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Somerset2026-03-30T12:30:54","area":"Somerset","outages":"0","customers":"11534","percent_out":"0.0","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"St._Mary's2026-03-30T12:30:54","area":"St. Mary's","outages":"3","customers":"54027","percent_out":"0.00555277916597257","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Talbot2026-03-30T12:30:54","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Washington2026-03-30T12:30:54","area":"Washington","outages":"0","customers":"54823","percent_out":"0.0","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Wicomico2026-03-30T12:30:54","area":"Wicomico","outages":"21","customers":"50940","percent_out":"0.04122497055359246","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Wicomico2026-04-01T09:00:54","area":"Wicomico","outages":"4","customers":"50934","percent_out":"0.007853300349471865","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Worcester2026-04-01T09:00:54","area":"Worcester","outages":"1","customers":"60000","percent_out":"0.0016666666666666668","dt_stamp":"2026-04-01T09:00:54.000"}
+,{"uid":"Calvert2026-03-16T05:45:56","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Caroline2026-03-16T05:45:56","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Carroll2026-03-16T05:45:56","area":"Carroll","outages":"63","customers":"76726","percent_out":"0.08211036675963819","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Cecil2026-03-22T08:15:55","area":"Cecil","outages":"7","customers":"51857","percent_out":"0.01349865977592225","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Charles2026-03-22T08:15:55","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Dorchester2026-03-22T08:15:55","area":"Dorchester","outages":"0","customers":"20334","percent_out":"0.0","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Frederick2026-03-22T08:15:55","area":"Frederick","outages":"0","customers":"120003","percent_out":"0.0","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Garrett2026-03-22T08:15:55","area":"Garrett","outages":"0","customers":"21451","percent_out":"0.0","dt_stamp":"2026-03-22T08:15:55.000"}
+,{"uid":"Cecil2026-03-16T05:45:56","area":"Cecil","outages":"0","customers":"51861","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Charles2026-03-16T05:45:56","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Dorchester2026-03-16T05:45:56","area":"Dorchester","outages":"4","customers":"20339","percent_out":"0.019666650277791433","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Frederick2026-03-16T05:45:56","area":"Frederick","outages":"25","customers":"120014","percent_out":"0.020830903061309514","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"St._Mary's2026-03-22T13:45:53","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Talbot2026-03-22T13:45:53","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Washington2026-03-22T13:45:53","area":"Washington","outages":"4","customers":"54834","percent_out":"0.0072947441368494004","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Wicomico2026-03-22T13:45:53","area":"Wicomico","outages":"0","customers":"50949","percent_out":"0.0","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Worcester2026-03-22T13:45:53","area":"Worcester","outages":"1","customers":"60000","percent_out":"0.0016666666666666668","dt_stamp":"2026-03-22T13:45:53.000"}
+,{"uid":"Worcester2026-03-24T05:00:56","area":"Worcester","outages":"0","customers":"59997","percent_out":"0.0","dt_stamp":"2026-03-24T05:00:56.000"}
+,{"uid":"Wicomico2026-03-24T10:00:58","area":"Wicomico","outages":"5","customers":"50948","percent_out":"0.009813927926513307","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Worcester2026-03-24T10:00:58","area":"Worcester","outages":"3","customers":"60000","percent_out":"0.005","dt_stamp":"2026-03-24T10:00:58.000"}
+,{"uid":"Carroll2026-03-26T05:00:57","area":"Carroll","outages":"4","customers":"76717","percent_out":"0.005213968220863694","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Allegany2026-03-26T10:30:54","area":"Allegany","outages":"1","customers":"37316","percent_out":"0.0026798156286847465","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Anne_Arundel2026-03-26T10:30:54","area":"Anne Arundel","outages":"4","customers":"264533","percent_out":"0.001512098679559828","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Baltimore2026-03-26T10:30:54","area":"Baltimore","outages":"16","customers":"378018","percent_out":"0.004232602680295647","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Worcester2026-03-30T12:30:54","area":"Worcester","outages":"2","customers":"60002","percent_out":"0.0033332222259258026","dt_stamp":"2026-03-30T12:30:54.000"}
+,{"uid":"Baltimore2026-04-01T03:30:59","area":"Baltimore","outages":"4","customers":"378032","percent_out":"0.0010581114826258096","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Baltimore_City2026-04-01T03:30:59","area":"Baltimore City","outages":"8","customers":"285041","percent_out":"0.00280661378538526","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Calvert2026-04-01T03:30:59","area":"Calvert","outages":"2","customers":"42044","percent_out":"0.0047569213205213585","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Caroline2026-04-01T03:30:59","area":"Caroline","outages":"0","customers":"16574","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Allegany2026-04-01T09:15:57","area":"Allegany","outages":"0","customers":"37312","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Anne_Arundel2026-04-01T09:15:57","area":"Anne Arundel","outages":"7","customers":"264502","percent_out":"0.0026464828243264703","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Baltimore2026-04-01T09:15:57","area":"Baltimore","outages":"24","customers":"378032","percent_out":"0.0063486688957548575","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Allegany2026-03-14T13:45:57","area":"Allegany","outages":"14","customers":"37318","percent_out":"0.03751540811404684","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Anne_Arundel2026-03-14T13:45:57","area":"Anne Arundel","outages":"110","customers":"264804","percent_out":"0.041540158003655535","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Baltimore2026-03-14T13:45:57","area":"Baltimore","outages":"70","customers":"378376","percent_out":"0.01850011628644523","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Baltimore_City2026-03-14T13:45:57","area":"Baltimore City","outages":"610","customers":"285419","percent_out":"0.21372088053002777","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Allegany2026-03-16T16:30:58","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Anne_Arundel2026-03-16T16:30:58","area":"Anne Arundel","outages":"108","customers":"264826","percent_out":"0.040781494264158356","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Baltimore2026-03-16T16:30:58","area":"Baltimore","outages":"142","customers":"378414","percent_out":"0.03752503871421248","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Baltimore_City2026-03-16T16:30:58","area":"Baltimore City","outages":"11","customers":"285474","percent_out":"0.003853240575323847","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Allegany2026-03-18T16:45:58","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Cecil2026-03-26T05:00:57","area":"Cecil","outages":"0","customers":"51848","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Charles2026-03-26T05:00:57","area":"Charles","outages":"0","customers":"76386","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Dorchester2026-03-26T05:00:57","area":"Dorchester","outages":"0","customers":"20332","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Frederick2026-03-26T05:00:57","area":"Frederick","outages":"0","customers":"119976","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Garrett2026-03-26T05:00:57","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Harford2026-03-26T05:00:57","area":"Harford","outages":"0","customers":"116257","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Howard2026-03-26T05:00:57","area":"Howard","outages":"0","customers":"140225","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Kent2026-03-26T05:00:57","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Baltimore_City2026-03-26T10:30:54","area":"Baltimore City","outages":"46","customers":"285163","percent_out":"0.016131125005698493","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Carroll2026-04-01T03:30:59","area":"Carroll","outages":"4","customers":"76706","percent_out":"0.005214715928349803","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Cecil2026-04-01T03:30:59","area":"Cecil","outages":"0","customers":"51840","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Charles2026-04-01T03:30:59","area":"Charles","outages":"1","customers":"75720","percent_out":"0.0013206550449022716","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Dorchester2026-04-01T03:30:59","area":"Dorchester","outages":"0","customers":"20321","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Frederick2026-04-01T03:30:59","area":"Frederick","outages":"6","customers":"119946","percent_out":"0.00500225101295583","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Garrett2026-04-01T03:30:59","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Harford2026-04-01T03:30:59","area":"Harford","outages":"0","customers":"116241","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Howard2026-04-01T03:30:59","area":"Howard","outages":"4","customers":"140213","percent_out":"0.002852802521877429","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Kent2026-04-01T03:30:59","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Montgomery2026-04-01T03:30:59","area":"Montgomery","outages":"7","customers":"385537","percent_out":"0.0018156493410489782","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Prince_George's2026-04-01T03:30:59","area":"Prince George's","outages":"4","customers":"355442","percent_out":"0.0011253594116620996","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Baltimore_City2026-04-01T09:15:57","area":"Baltimore City","outages":"6","customers":"285041","percent_out":"0.0021049603390389453","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Montgomery2026-03-26T05:00:57","area":"Montgomery","outages":"0","customers":"385645","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Calvert2026-03-26T10:30:54","area":"Calvert","outages":"4","customers":"42918","percent_out":"0.009320098793047207","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Caroline2026-03-26T10:30:54","area":"Caroline","outages":"1","customers":"16568","percent_out":"0.0060357315306615155","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Carroll2026-03-26T10:30:54","area":"Carroll","outages":"5","customers":"76717","percent_out":"0.006517460276079618","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Cecil2026-03-26T10:30:54","area":"Cecil","outages":"4","customers":"51848","percent_out":"0.007714858818083628","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Charles2026-03-26T10:30:54","area":"Charles","outages":"13","customers":"76386","percent_out":"0.01701882543921661","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Dorchester2026-03-26T10:30:54","area":"Dorchester","outages":"1","customers":"20332","percent_out":"0.004918355301987015","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Frederick2026-03-26T10:30:54","area":"Frederick","outages":"1","customers":"119979","percent_out":"0.0008334791921919669","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Calvert2026-04-01T09:15:57","area":"Calvert","outages":"2","customers":"42044","percent_out":"0.0047569213205213585","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Caroline2026-04-01T09:15:57","area":"Caroline","outages":"1","customers":"16574","percent_out":"0.006033546518643659","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Allegany2026-03-22T14:00:53","area":"Allegany","outages":"1","customers":"37328","percent_out":"0.002678954136305186","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Garrett2026-03-26T10:30:54","area":"Garrett","outages":"2","customers":"21454","percent_out":"0.009322270905192505","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Harford2026-03-26T10:30:54","area":"Harford","outages":"4","customers":"116257","percent_out":"0.0034406530359462227","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Howard2026-03-26T10:30:54","area":"Howard","outages":"11","customers":"140225","percent_out":"0.007844535567837404","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Kent2026-03-26T10:30:54","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Montgomery2026-03-26T10:30:54","area":"Montgomery","outages":"11","customers":"385645","percent_out":"0.0028523642209804354","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Prince_George's2026-03-26T10:30:54","area":"Prince George's","outages":"10","customers":"355605","percent_out":"0.002812108941100378","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Queen_Anne's2026-03-26T10:30:54","area":"Queen Anne's","outages":"0","customers":"28565","percent_out":"0.0","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Somerset2026-03-26T10:30:54","area":"Somerset","outages":"0","customers":"11532","percent_out":"0.0","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Montgomery2026-03-28T10:30:54","area":"Montgomery","outages":"11","customers":"385644","percent_out":"0.002852371617346568","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Prince_George's2026-03-28T10:30:54","area":"Prince George's","outages":"0","customers":"355588","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Queen_Anne's2026-03-28T10:30:54","area":"Queen Anne's","outages":"0","customers":"28579","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Somerset2026-03-28T10:30:54","area":"Somerset","outages":"1","customers":"11532","percent_out":"0.008671522719389525","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"St._Mary's2026-03-28T10:30:54","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Allegany2026-03-30T12:45:55","area":"Allegany","outages":"1","customers":"37312","percent_out":"0.0026801029159519724","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Anne_Arundel2026-03-30T12:45:55","area":"Anne Arundel","outages":"10","customers":"264559","percent_out":"0.003779875188521275","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Baltimore2026-03-30T12:45:55","area":"Baltimore","outages":"28","customers":"378015","percent_out":"0.007407113474333029","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Baltimore_City2026-03-30T12:45:55","area":"Baltimore City","outages":"49","customers":"285135","percent_out":"0.017184842267697755","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Calvert2026-03-30T12:45:55","area":"Calvert","outages":"0","customers":"42041","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Caroline2026-03-30T12:45:55","area":"Caroline","outages":"0","customers":"16574","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Carroll2026-03-30T12:45:55","area":"Carroll","outages":"6","customers":"76701","percent_out":"0.007822583799428951","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Carroll2026-04-01T09:15:57","area":"Carroll","outages":"4","customers":"76706","percent_out":"0.005214715928349803","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Cecil2026-04-01T09:15:57","area":"Cecil","outages":"0","customers":"51841","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Charles2026-04-01T09:15:57","area":"Charles","outages":"61","customers":"75720","percent_out":"0.08055995773903857","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Dorchester2026-04-01T09:15:57","area":"Dorchester","outages":"10","customers":"20321","percent_out":"0.04921017666453423","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Frederick2026-04-01T09:15:57","area":"Frederick","outages":"14","customers":"119947","percent_out":"0.011671821721260224","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Garrett2026-04-01T09:15:57","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Harford2026-04-01T09:15:57","area":"Harford","outages":"0","customers":"116241","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Howard2026-04-01T09:15:57","area":"Howard","outages":"4","customers":"140213","percent_out":"0.002852802521877429","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Kent2026-04-01T09:15:57","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Calvert2026-03-14T13:45:57","area":"Calvert","outages":"0","customers":"42221","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Calvert2026-03-16T16:30:58","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Caroline2026-03-16T16:30:58","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Carroll2026-03-16T16:30:58","area":"Carroll","outages":"202","customers":"76726","percent_out":"0.26327450929280816","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Montgomery2026-04-01T09:15:57","area":"Montgomery","outages":"19","customers":"385537","percent_out":"0.0049281910685615125","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Cecil2026-03-16T16:30:58","area":"Cecil","outages":"0","customers":"51862","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Charles2026-03-16T16:30:58","area":"Charles","outages":"5","customers":"77082","percent_out":"0.006486598687112426","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Dorchester2026-03-16T16:30:58","area":"Dorchester","outages":"0","customers":"20341","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Frederick2026-03-16T16:30:58","area":"Frederick","outages":"1","customers":"120014","percent_out":"0.0008332361224523806","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Garrett2026-03-16T16:30:58","area":"Garrett","outages":"1","customers":"21454","percent_out":"0.004661135452596252","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Anne_Arundel2026-03-18T16:45:58","area":"Anne Arundel","outages":"7","customers":"264788","percent_out":"0.0026436243334290073","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Anne_Arundel2026-03-22T14:00:53","area":"Anne Arundel","outages":"4","customers":"264775","percent_out":"0.0015107166462090455","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Baltimore2026-03-22T14:00:53","area":"Baltimore","outages":"4","customers":"378370","percent_out":"0.0010571662658244575","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Talbot2026-03-28T10:30:54","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Caroline2026-03-14T13:45:57","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Baltimore2026-03-18T16:45:58","area":"Baltimore","outages":"22","customers":"378451","percent_out":"0.0058131700008719756","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Baltimore_City2026-03-18T16:45:58","area":"Baltimore City","outages":"24","customers":"285485","percent_out":"0.008406746413997232","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Calvert2026-03-18T16:45:58","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Caroline2026-03-18T16:45:58","area":"Caroline","outages":"0","customers":"16579","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Carroll2026-03-18T16:45:58","area":"Carroll","outages":"4","customers":"76735","percent_out":"0.005212745161920896","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Cecil2026-03-18T16:45:58","area":"Cecil","outages":"0","customers":"51862","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Charles2026-03-18T16:45:58","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Dorchester2026-03-18T16:45:58","area":"Dorchester","outages":"0","customers":"20340","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Frederick2026-03-18T16:45:58","area":"Frederick","outages":"0","customers":"120014","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Baltimore_City2026-03-22T14:00:53","area":"Baltimore City","outages":"4","customers":"285416","percent_out":"0.0014014631275051153","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Calvert2026-03-22T14:00:53","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Caroline2026-03-22T14:00:53","area":"Caroline","outages":"0","customers":"16570","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Carroll2026-03-22T14:00:53","area":"Carroll","outages":"5","customers":"76733","percent_out":"0.006516101286278394","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"St._Mary's2026-03-26T10:30:54","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Cecil2026-03-30T12:45:55","area":"Cecil","outages":"4","customers":"51845","percent_out":"0.007715305236763429","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Charles2026-03-30T12:45:55","area":"Charles","outages":"0","customers":"75720","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Dorchester2026-03-30T12:45:55","area":"Dorchester","outages":"2","customers":"20327","percent_out":"0.009839130220888474","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Frederick2026-03-30T12:45:55","area":"Frederick","outages":"1","customers":"119946","percent_out":"0.0008337085021593051","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Garrett2026-03-30T12:45:55","area":"Garrett","outages":"1","customers":"21454","percent_out":"0.004661135452596252","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Harford2026-03-30T12:45:55","area":"Harford","outages":"16","customers":"116233","percent_out":"0.013765453872824414","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Howard2026-03-30T12:45:55","area":"Howard","outages":"1","customers":"140209","percent_out":"0.000713220977255383","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Kent2026-03-30T12:45:55","area":"Kent","outages":"4","customers":"12714","percent_out":"0.031461381154632685","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Prince_George's2026-04-01T09:15:57","area":"Prince George's","outages":"4","customers":"355442","percent_out":"0.0011253594116620996","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Queen_Anne's2026-04-01T09:15:57","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Somerset2026-04-01T09:15:57","area":"Somerset","outages":"0","customers":"11533","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"St._Mary's2026-04-01T09:15:57","area":"St. Mary's","outages":"7","customers":"54027","percent_out":"0.012956484720602662","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Talbot2026-04-01T09:15:57","area":"Talbot","outages":"0","customers":"24045","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Washington2026-04-01T09:15:57","area":"Washington","outages":"0","customers":"54823","percent_out":"0.0","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Wicomico2026-04-01T09:15:57","area":"Wicomico","outages":"4","customers":"50934","percent_out":"0.007853300349471865","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Worcester2026-04-01T09:15:57","area":"Worcester","outages":"1","customers":"60000","percent_out":"0.0016666666666666668","dt_stamp":"2026-04-01T09:15:57.000"}
+,{"uid":"Washington2026-03-12T14:00:59","area":"Washington","outages":"3","customers":"54851","percent_out":"0.00546936245464987","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Wicomico2026-03-12T14:00:59","area":"Wicomico","outages":"0","customers":"50963","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Worcester2026-03-12T14:00:59","area":"Worcester","outages":"0","customers":"59988","percent_out":"0.0","dt_stamp":"2026-03-12T14:00:59.000"}
+,{"uid":"Montgomery2026-03-14T03:46:01","area":"Montgomery","outages":"98","customers":"385216","percent_out":"0.025440272470510047","dt_stamp":"2026-03-14T03:46:01.000"}
+,{"uid":"Prince_George's2026-03-14T03:46:01","area":"Prince George's","outages":"30","customers":"355623","percent_out":"0.008435899815253793","dt_stamp":"2026-03-14T03:46:01.000"}
+,{"uid":"Queen_Anne's2026-03-14T03:46:01","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-14T03:46:01.000"}
+,{"uid":"Harford2026-03-16T16:30:58","area":"Harford","outages":"12","customers":"116455","percent_out":"0.010304409428534627","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Howard2026-03-16T16:30:58","area":"Howard","outages":"526","customers":"140375","percent_out":"0.3747105966162066","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Kent2026-03-16T16:30:58","area":"Kent","outages":"0","customers":"12726","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Montgomery2026-03-16T16:30:58","area":"Montgomery","outages":"163","customers":"385216","percent_out":"0.04231392257850141","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Prince_George's2026-03-16T16:30:58","area":"Prince George's","outages":"1145","customers":"355629","percent_out":"0.32196474415753495","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Cecil2026-03-22T14:00:53","area":"Cecil","outages":"0","customers":"51857","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Charles2026-03-22T14:00:53","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Dorchester2026-03-22T14:00:53","area":"Dorchester","outages":"0","customers":"20334","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Frederick2026-03-22T14:00:53","area":"Frederick","outages":"0","customers":"120003","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Garrett2026-03-22T14:00:53","area":"Garrett","outages":"0","customers":"21451","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Harford2026-03-22T14:00:53","area":"Harford","outages":"0","customers":"116390","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Howard2026-03-22T14:00:53","area":"Howard","outages":"4","customers":"140364","percent_out":"0.002849733549913083","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Kent2026-03-22T14:00:53","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Montgomery2026-03-22T14:00:53","area":"Montgomery","outages":"0","customers":"385196","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Prince_George's2026-03-22T14:00:53","area":"Prince George's","outages":"4","customers":"355613","percent_out":"0.0011248182715480031","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Talbot2026-03-26T10:30:54","area":"Talbot","outages":"1","customers":"24045","percent_out":"0.004158868787689748","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Washington2026-03-26T10:30:54","area":"Washington","outages":"8","customers":"54823","percent_out":"0.01459241559199606","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Wicomico2026-03-26T10:30:54","area":"Wicomico","outages":"7","customers":"50942","percent_out":"0.01374111734914216","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Worcester2026-03-26T10:30:54","area":"Worcester","outages":"7","customers":"60000","percent_out":"0.011666666666666667","dt_stamp":"2026-03-26T10:30:54.000"}
+,{"uid":"Allegany2026-03-28T04:45:55","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Anne_Arundel2026-03-28T04:45:55","area":"Anne Arundel","outages":"7","customers":"264535","percent_out":"0.00264615268300981","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Baltimore2026-03-28T04:45:55","area":"Baltimore","outages":"4","customers":"377965","percent_out":"0.0010582990488537298","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Baltimore_City2026-03-28T04:45:55","area":"Baltimore City","outages":"4","customers":"285094","percent_out":"0.001403046012893993","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Calvert2026-03-28T04:45:55","area":"Calvert","outages":"0","customers":"42926","percent_out":"0.0","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Caroline2026-03-28T04:45:55","area":"Caroline","outages":"0","customers":"16572","percent_out":"0.0","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Carroll2026-03-28T04:45:55","area":"Carroll","outages":"4","customers":"76710","percent_out":"0.005214444009907443","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Cecil2026-03-28T04:45:55","area":"Cecil","outages":"0","customers":"51840","percent_out":"0.0","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Charles2026-03-28T04:45:55","area":"Charles","outages":"0","customers":"76386","percent_out":"0.0","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Dorchester2026-03-28T04:45:55","area":"Dorchester","outages":"0","customers":"20329","percent_out":"0.0","dt_stamp":"2026-03-28T04:45:55.000"}
+,{"uid":"Garrett2026-03-18T16:45:58","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Harford2026-03-18T16:45:58","area":"Harford","outages":"4","customers":"116442","percent_out":"0.0034351866165129416","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Howard2026-03-18T16:45:58","area":"Howard","outages":"4","customers":"140392","percent_out":"0.002849165194597983","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Kent2026-03-18T16:45:58","area":"Kent","outages":"0","customers":"12726","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Montgomery2026-03-18T16:45:58","area":"Montgomery","outages":"14","customers":"385224","percent_out":"0.003634249164122692","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Prince_George's2026-03-18T16:45:58","area":"Prince George's","outages":"22","customers":"355619","percent_out":"0.006186396114943239","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Queen_Anne's2026-03-22T14:00:53","area":"Queen Anne's","outages":"4","customers":"28554","percent_out":"0.014008545212579673","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Somerset2026-03-22T14:00:53","area":"Somerset","outages":"0","customers":"11534","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"St._Mary's2026-03-22T14:00:53","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Talbot2026-03-22T14:00:53","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Washington2026-03-22T14:00:53","area":"Washington","outages":"4","customers":"54834","percent_out":"0.0072947441368494004","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Wicomico2026-03-22T14:00:53","area":"Wicomico","outages":"0","customers":"50949","percent_out":"0.0","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Worcester2026-03-22T14:00:53","area":"Worcester","outages":"1","customers":"60000","percent_out":"0.0016666666666666668","dt_stamp":"2026-03-22T14:00:53.000"}
+,{"uid":"Allegany2026-03-24T05:15:55","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Allegany2026-03-26T10:45:55","area":"Allegany","outages":"1","customers":"37316","percent_out":"0.0026798156286847465","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Anne_Arundel2026-03-26T10:45:55","area":"Anne Arundel","outages":"4","customers":"264533","percent_out":"0.001512098679559828","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Montgomery2026-03-30T12:45:55","area":"Montgomery","outages":"16","customers":"385629","percent_out":"0.004149065552642566","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Prince_George's2026-03-30T12:45:55","area":"Prince George's","outages":"4","customers":"355592","percent_out":"0.0011248846993183199","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Queen_Anne's2026-03-30T12:45:55","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Somerset2026-03-30T12:45:55","area":"Somerset","outages":"0","customers":"11534","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"St._Mary's2026-03-30T12:45:55","area":"St. Mary's","outages":"3","customers":"54027","percent_out":"0.00555277916597257","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Talbot2026-03-30T12:45:55","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Washington2026-03-30T12:45:55","area":"Washington","outages":"0","customers":"54823","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Wicomico2026-03-30T12:45:55","area":"Wicomico","outages":"0","customers":"50940","percent_out":"0.0","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Worcester2026-03-30T12:45:55","area":"Worcester","outages":"2","customers":"60002","percent_out":"0.0033332222259258026","dt_stamp":"2026-03-30T12:45:55.000"}
+,{"uid":"Queen_Anne's2026-04-01T03:30:59","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Somerset2026-04-01T03:30:59","area":"Somerset","outages":"0","customers":"11533","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Anne_Arundel2026-03-24T05:15:55","area":"Anne Arundel","outages":"0","customers":"264716","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"St._Mary's2026-04-01T03:30:59","area":"St. Mary's","outages":"0","customers":"54027","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Talbot2026-04-01T03:30:59","area":"Talbot","outages":"0","customers":"24045","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Washington2026-04-01T03:30:59","area":"Washington","outages":"0","customers":"54823","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Allegany2026-03-12T14:16:14","area":"Allegany","outages":"3","customers":"37316","percent_out":"0.008039446886054239","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Anne_Arundel2026-03-12T14:16:14","area":"Anne Arundel","outages":"338","customers":"264835","percent_out":"0.12762663545226272","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Baltimore2026-03-12T14:16:14","area":"Baltimore","outages":"685","customers":"378360","percent_out":"0.18104450787609683","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Queen_Anne's2026-03-16T16:30:58","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Somerset2026-03-16T16:30:58","area":"Somerset","outages":"0","customers":"11530","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Queen_Anne's2026-03-18T16:45:58","area":"Queen Anne's","outages":"0","customers":"28557","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Somerset2026-03-18T16:45:58","area":"Somerset","outages":"0","customers":"11532","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"St._Mary's2026-03-18T16:45:58","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Talbot2026-03-18T16:45:58","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Washington2026-03-18T16:45:58","area":"Washington","outages":"1","customers":"54853","percent_out":"0.001823054345250032","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Wicomico2026-03-18T16:45:58","area":"Wicomico","outages":"6","customers":"50962","percent_out":"0.011773478277932577","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Worcester2026-03-18T16:45:58","area":"Worcester","outages":"0","customers":"59992","percent_out":"0.0","dt_stamp":"2026-03-18T16:45:58.000"}
+,{"uid":"Allegany2026-03-20T09:30:59","area":"Allegany","outages":"0","customers":"37328","percent_out":"0.0","dt_stamp":"2026-03-20T09:30:59.000"}
+,{"uid":"Baltimore2026-03-24T05:15:55","area":"Baltimore","outages":"38","customers":"378262","percent_out":"0.01004594698912394","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Baltimore_City2026-03-24T05:15:55","area":"Baltimore City","outages":"4","customers":"285385","percent_out":"0.001401615361704364","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Calvert2026-03-24T05:15:55","area":"Calvert","outages":"0","customers":"42222","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Caroline2026-03-24T05:15:55","area":"Caroline","outages":"0","customers":"16568","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Wicomico2026-04-01T03:30:59","area":"Wicomico","outages":"0","customers":"50933","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Worcester2026-04-01T03:30:59","area":"Worcester","outages":"0","customers":"59998","percent_out":"0.0","dt_stamp":"2026-04-01T03:30:59.000"}
+,{"uid":"Carroll2026-03-24T05:15:55","area":"Carroll","outages":"0","customers":"76712","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Cecil2026-03-24T05:15:55","area":"Cecil","outages":"165","customers":"51855","percent_out":"0.3181949667341626","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Charles2026-03-24T05:15:55","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Dorchester2026-03-24T05:15:55","area":"Dorchester","outages":"0","customers":"20334","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Frederick2026-03-24T05:15:55","area":"Frederick","outages":"0","customers":"119976","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Garrett2026-03-24T05:15:55","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Harford2026-03-24T05:15:55","area":"Harford","outages":"0","customers":"116349","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Howard2026-03-24T05:15:55","area":"Howard","outages":"0","customers":"140312","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Kent2026-03-24T05:15:55","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Montgomery2026-03-24T05:15:55","area":"Montgomery","outages":"0","customers":"385700","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Prince_George's2026-03-24T05:15:55","area":"Prince George's","outages":"0","customers":"355844","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Allegany2026-03-20T17:45:59","area":"Allegany","outages":"0","customers":"37328","percent_out":"0.0","dt_stamp":"2026-03-20T17:45:59.000"}
+,{"uid":"Anne_Arundel2026-03-20T17:45:59","area":"Anne Arundel","outages":"4","customers":"264726","percent_out":"0.0015109962753941811","dt_stamp":"2026-03-20T17:45:59.000"}
+,{"uid":"Allegany2026-03-22T14:15:56","area":"Allegany","outages":"1","customers":"37328","percent_out":"0.002678954136305186","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Anne_Arundel2026-03-22T14:15:56","area":"Anne Arundel","outages":"4","customers":"264775","percent_out":"0.0015107166462090455","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Baltimore2026-03-22T14:15:56","area":"Baltimore","outages":"6","customers":"378370","percent_out":"0.001585749398736686","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Baltimore_City2026-03-22T14:15:56","area":"Baltimore City","outages":"4","customers":"285416","percent_out":"0.0014014631275051153","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Calvert2026-03-22T14:15:56","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Caroline2026-03-22T14:15:56","area":"Caroline","outages":"0","customers":"16570","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Carroll2026-03-22T14:15:56","area":"Carroll","outages":"44","customers":"76733","percent_out":"0.05734169131924987","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Cecil2026-03-22T14:15:56","area":"Cecil","outages":"0","customers":"51857","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Charles2026-03-22T14:15:56","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Allegany2026-03-24T10:15:57","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Anne_Arundel2026-03-24T10:15:57","area":"Anne Arundel","outages":"15","customers":"264716","percent_out":"0.005666450082352408","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Baltimore2026-03-24T10:15:57","area":"Baltimore","outages":"4","customers":"378262","percent_out":"0.0010574681041183095","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Washington2026-03-28T10:30:54","area":"Washington","outages":"0","customers":"54832","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Wicomico2026-03-28T10:30:54","area":"Wicomico","outages":"46","customers":"50945","percent_out":"0.09029345372460496","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Worcester2026-03-28T10:30:54","area":"Worcester","outages":"0","customers":"60009","percent_out":"0.0","dt_stamp":"2026-03-28T10:30:54.000"}
+,{"uid":"Montgomery2026-03-30T02:30:59","area":"Montgomery","outages":"1027","customers":"385643","percent_out":"0.2663084770111217","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Prince_George's2026-03-30T02:30:59","area":"Prince George's","outages":"0","customers":"355592","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Allegany2026-04-01T09:30:55","area":"Allegany","outages":"1","customers":"37312","percent_out":"0.0026801029159519724","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Anne_Arundel2026-04-01T09:30:55","area":"Anne Arundel","outages":"7","customers":"264502","percent_out":"0.0026464828243264703","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Baltimore2026-04-01T09:30:55","area":"Baltimore","outages":"22","customers":"378032","percent_out":"0.005819613154441952","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Baltimore_City2026-04-01T09:30:55","area":"Baltimore City","outages":"6","customers":"285041","percent_out":"0.0021049603390389453","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Calvert2026-04-01T09:30:55","area":"Calvert","outages":"2","customers":"42044","percent_out":"0.0047569213205213585","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Caroline2026-04-01T09:30:55","area":"Caroline","outages":"1","customers":"16574","percent_out":"0.006033546518643659","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Carroll2026-03-14T13:45:57","area":"Carroll","outages":"54","customers":"76721","percent_out":"0.07038490113528238","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Carroll2026-04-01T09:30:55","area":"Carroll","outages":"4","customers":"76706","percent_out":"0.005214715928349803","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Cecil2026-04-01T09:30:55","area":"Cecil","outages":"0","customers":"51841","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Charles2026-04-01T09:30:55","area":"Charles","outages":"64","customers":"75720","percent_out":"0.08452192287374538","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Dorchester2026-04-01T09:30:55","area":"Dorchester","outages":"0","customers":"20321","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Frederick2026-04-01T09:30:55","area":"Frederick","outages":"14","customers":"119947","percent_out":"0.011671821721260224","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Cecil2026-03-14T13:45:57","area":"Cecil","outages":"4","customers":"51861","percent_out":"0.0077129249339580805","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Charles2026-03-14T13:45:57","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Dorchester2026-03-14T13:45:57","area":"Dorchester","outages":"0","customers":"20339","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"St._Mary's2026-03-16T16:30:58","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Talbot2026-03-16T16:30:58","area":"Talbot","outages":"0","customers":"24045","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Garrett2026-04-01T09:30:55","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Allegany2026-03-18T17:00:58","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Anne_Arundel2026-03-18T17:00:58","area":"Anne Arundel","outages":"7","customers":"264788","percent_out":"0.0026436243334290073","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Baltimore2026-03-18T17:00:58","area":"Baltimore","outages":"22","customers":"378451","percent_out":"0.0058131700008719756","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Baltimore_City2026-03-18T17:00:58","area":"Baltimore City","outages":"23","customers":"285485","percent_out":"0.008056465313414016","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Calvert2026-03-18T17:00:58","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Caroline2026-03-18T17:00:58","area":"Caroline","outages":"0","customers":"16579","percent_out":"0.0","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Carroll2026-03-18T17:00:58","area":"Carroll","outages":"4","customers":"76735","percent_out":"0.005212745161920896","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Baltimore_City2026-03-24T10:15:57","area":"Baltimore City","outages":"11","customers":"285385","percent_out":"0.0038544422446870016","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Calvert2026-03-24T10:15:57","area":"Calvert","outages":"15","customers":"42222","percent_out":"0.03552650277106721","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Caroline2026-03-24T10:15:57","area":"Caroline","outages":"1","customers":"16571","percent_out":"0.006034638826866212","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Carroll2026-03-24T10:15:57","area":"Carroll","outages":"4","customers":"76712","percent_out":"0.005214308061320263","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Baltimore2026-03-26T10:45:55","area":"Baltimore","outages":"16","customers":"378018","percent_out":"0.004232602680295647","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Baltimore_City2026-03-26T10:45:55","area":"Baltimore City","outages":"46","customers":"285163","percent_out":"0.016131125005698493","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Calvert2026-03-26T10:45:55","area":"Calvert","outages":"5","customers":"42918","percent_out":"0.011650123491309007","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Caroline2026-03-26T10:45:55","area":"Caroline","outages":"1","customers":"16568","percent_out":"0.0060357315306615155","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Carroll2026-03-26T10:45:55","area":"Carroll","outages":"4","customers":"76717","percent_out":"0.005213968220863694","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Queen_Anne's2026-03-30T02:30:59","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Somerset2026-03-30T02:30:59","area":"Somerset","outages":"0","customers":"11535","percent_out":"0.0","dt_stamp":"2026-03-30T02:30:59.000"}
+,{"uid":"Dorchester2026-03-22T14:15:56","area":"Dorchester","outages":"0","customers":"20334","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Frederick2026-03-22T14:15:56","area":"Frederick","outages":"0","customers":"120003","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Allegany2026-03-30T13:00:56","area":"Allegany","outages":"1","customers":"37312","percent_out":"0.0026801029159519724","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Anne_Arundel2026-03-30T13:00:56","area":"Anne Arundel","outages":"10","customers":"264559","percent_out":"0.003779875188521275","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Harford2026-04-01T09:30:55","area":"Harford","outages":"0","customers":"116241","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Howard2026-04-01T09:30:55","area":"Howard","outages":"4","customers":"140213","percent_out":"0.002852802521877429","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Frederick2026-03-14T13:45:57","area":"Frederick","outages":"20","customers":"120014","percent_out":"0.01666472244904761","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Garrett2026-03-14T13:45:57","area":"Garrett","outages":"11","customers":"21454","percent_out":"0.05127248997855877","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Washington2026-03-16T16:30:58","area":"Washington","outages":"5","customers":"54853","percent_out":"0.00911527172625016","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Wicomico2026-03-16T16:30:58","area":"Wicomico","outages":"0","customers":"50962","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Worcester2026-03-16T16:30:58","area":"Worcester","outages":"0","customers":"59994","percent_out":"0.0","dt_stamp":"2026-03-16T16:30:58.000"}
+,{"uid":"Caroline2026-03-18T08:45:57","area":"Caroline","outages":"0","customers":"16579","percent_out":"0.0","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Carroll2026-03-18T08:45:57","area":"Carroll","outages":"5","customers":"76735","percent_out":"0.006515931452401121","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Cecil2026-03-18T08:45:57","area":"Cecil","outages":"4","customers":"51862","percent_out":"0.007712776213798157","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Charles2026-03-18T08:45:57","area":"Charles","outages":"1","customers":"77082","percent_out":"0.0012973197374224852","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Dorchester2026-03-18T08:45:57","area":"Dorchester","outages":"4","customers":"20341","percent_out":"0.019664716582272257","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Frederick2026-03-18T08:45:57","area":"Frederick","outages":"0","customers":"120014","percent_out":"0.0","dt_stamp":"2026-03-18T08:45:57.000"}
+,{"uid":"Garrett2026-03-22T14:15:56","area":"Garrett","outages":"0","customers":"21451","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Harford2026-03-22T14:15:56","area":"Harford","outages":"0","customers":"116390","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Howard2026-03-22T14:15:56","area":"Howard","outages":"4","customers":"140364","percent_out":"0.002849733549913083","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Kent2026-03-22T14:15:56","area":"Kent","outages":"0","customers":"12714","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Montgomery2026-03-22T14:15:56","area":"Montgomery","outages":"0","customers":"385196","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Cecil2026-03-26T10:45:55","area":"Cecil","outages":"4","customers":"51848","percent_out":"0.007714858818083628","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Charles2026-03-26T10:45:55","area":"Charles","outages":"15","customers":"76386","percent_out":"0.019637106276019167","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Dorchester2026-03-26T10:45:55","area":"Dorchester","outages":"1","customers":"20332","percent_out":"0.004918355301987015","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Frederick2026-03-26T10:45:55","area":"Frederick","outages":"1","customers":"119979","percent_out":"0.0008334791921919669","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Garrett2026-03-26T10:45:55","area":"Garrett","outages":"2","customers":"21454","percent_out":"0.009322270905192505","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Baltimore2026-03-30T13:00:56","area":"Baltimore","outages":"29","customers":"378015","percent_out":"0.007671653241273494","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Baltimore_City2026-03-30T13:00:56","area":"Baltimore City","outages":"57","customers":"285135","percent_out":"0.01999053080119943","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Calvert2026-03-30T13:00:56","area":"Calvert","outages":"0","customers":"42041","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Caroline2026-03-30T13:00:56","area":"Caroline","outages":"0","customers":"16574","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Carroll2026-03-30T13:00:56","area":"Carroll","outages":"2","customers":"76701","percent_out":"0.0026075279331429836","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Cecil2026-03-30T13:00:56","area":"Cecil","outages":"4","customers":"51845","percent_out":"0.007715305236763429","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Charles2026-03-30T13:00:56","area":"Charles","outages":"0","customers":"75720","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Kent2026-04-01T09:30:55","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Montgomery2026-04-01T09:30:55","area":"Montgomery","outages":"20","customers":"385537","percent_out":"0.005187569545854224","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Prince_George's2026-04-01T09:30:55","area":"Prince George's","outages":"10","customers":"355442","percent_out":"0.002813398529155249","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Harford2026-03-26T10:45:55","area":"Harford","outages":"4","customers":"116257","percent_out":"0.0034406530359462227","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Howard2026-03-26T10:45:55","area":"Howard","outages":"11","customers":"140225","percent_out":"0.007844535567837404","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Allegany2026-03-28T10:45:55","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Queen_Anne's2026-04-01T09:30:55","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Somerset2026-04-01T09:30:55","area":"Somerset","outages":"0","customers":"11533","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"St._Mary's2026-04-01T09:30:55","area":"St. Mary's","outages":"7","customers":"54027","percent_out":"0.012956484720602662","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Talbot2026-04-01T09:30:55","area":"Talbot","outages":"0","customers":"24045","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Washington2026-04-01T09:30:55","area":"Washington","outages":"0","customers":"54823","percent_out":"0.0","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Wicomico2026-04-01T09:30:55","area":"Wicomico","outages":"4","customers":"50934","percent_out":"0.007853300349471865","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Worcester2026-04-01T09:30:55","area":"Worcester","outages":"4","customers":"60000","percent_out":"0.006666666666666667","dt_stamp":"2026-04-01T09:30:55.000"}
+,{"uid":"Anne_Arundel2026-03-28T10:45:55","area":"Anne Arundel","outages":"4","customers":"264535","percent_out":"0.001512087247434177","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Baltimore2026-03-28T10:45:55","area":"Baltimore","outages":"0","customers":"377965","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Baltimore_City2026-03-28T10:45:55","area":"Baltimore City","outages":"4","customers":"285094","percent_out":"0.001403046012893993","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Calvert2026-03-28T10:45:55","area":"Calvert","outages":"0","customers":"42926","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Caroline2026-03-28T10:45:55","area":"Caroline","outages":"0","customers":"16572","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Carroll2026-03-28T10:45:55","area":"Carroll","outages":"0","customers":"76710","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Cecil2026-03-28T10:45:55","area":"Cecil","outages":"0","customers":"51839","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Charles2026-03-28T10:45:55","area":"Charles","outages":"0","customers":"76386","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Dorchester2026-03-28T10:45:55","area":"Dorchester","outages":"0","customers":"20329","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Frederick2026-03-28T10:45:55","area":"Frederick","outages":"0","customers":"119984","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Garrett2026-03-28T10:45:55","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Harford2026-03-28T10:45:55","area":"Harford","outages":"0","customers":"116265","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Howard2026-03-28T10:45:55","area":"Howard","outages":"4","customers":"140196","percent_out":"0.0028531484493138177","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Kent2026-03-28T10:45:55","area":"Kent","outages":"0","customers":"12712","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Allegany2026-04-01T09:45:57","area":"Allegany","outages":"1","customers":"37312","percent_out":"0.0026801029159519724","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Anne_Arundel2026-04-01T09:45:57","area":"Anne Arundel","outages":"7","customers":"264502","percent_out":"0.0026464828243264703","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Baltimore2026-04-01T09:45:57","area":"Baltimore","outages":"22","customers":"378032","percent_out":"0.005819613154441952","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Baltimore_City2026-04-01T09:45:57","area":"Baltimore City","outages":"6","customers":"285041","percent_out":"0.0021049603390389453","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Cecil2026-03-18T17:00:58","area":"Cecil","outages":"0","customers":"51862","percent_out":"0.0","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Charles2026-03-18T17:00:58","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-18T17:00:58.000"}
+,{"uid":"Prince_George's2026-03-22T14:15:56","area":"Prince George's","outages":"4","customers":"355613","percent_out":"0.0011248182715480031","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Queen_Anne's2026-03-22T14:15:56","area":"Queen Anne's","outages":"4","customers":"28554","percent_out":"0.014008545212579673","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Somerset2026-03-22T14:15:56","area":"Somerset","outages":"0","customers":"11534","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"St._Mary's2026-03-22T14:15:56","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Talbot2026-03-22T14:15:56","area":"Talbot","outages":"0","customers":"24047","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Washington2026-03-22T14:15:56","area":"Washington","outages":"4","customers":"54834","percent_out":"0.0072947441368494004","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Wicomico2026-03-22T14:15:56","area":"Wicomico","outages":"0","customers":"50949","percent_out":"0.0","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Cecil2026-03-24T10:15:57","area":"Cecil","outages":"212","customers":"51855","percent_out":"0.40883232089480276","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Charles2026-03-24T10:15:57","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Dorchester2026-03-24T10:15:57","area":"Dorchester","outages":"6","customers":"20336","percent_out":"0.029504327301337528","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Frederick2026-03-24T10:15:57","area":"Frederick","outages":"1","customers":"119976","percent_out":"0.0008335000333400014","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Garrett2026-03-24T10:15:57","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Harford2026-03-24T10:15:57","area":"Harford","outages":"4","customers":"116349","percent_out":"0.0034379324274381386","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Howard2026-03-24T10:15:57","area":"Howard","outages":"0","customers":"140312","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Kent2026-03-24T10:15:57","area":"Kent","outages":"0","customers":"12715","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Montgomery2026-03-24T10:15:57","area":"Montgomery","outages":"6","customers":"385700","percent_out":"0.00155561317085818","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Prince_George's2026-03-24T10:15:57","area":"Prince George's","outages":"99","customers":"355844","percent_out":"0.027821180067670103","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Queen_Anne's2026-03-24T10:15:57","area":"Queen Anne's","outages":"4","customers":"28554","percent_out":"0.014008545212579673","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Somerset2026-03-24T10:15:57","area":"Somerset","outages":"0","customers":"11535","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"St._Mary's2026-03-24T10:15:57","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Talbot2026-03-24T10:15:57","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Washington2026-03-24T10:15:57","area":"Washington","outages":"6","customers":"54822","percent_out":"0.010944511327569224","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Wicomico2026-03-24T10:15:57","area":"Wicomico","outages":"5","customers":"50948","percent_out":"0.009813927926513307","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Worcester2026-03-24T10:15:57","area":"Worcester","outages":"3","customers":"60000","percent_out":"0.005","dt_stamp":"2026-03-24T10:15:57.000"}
+,{"uid":"Prince_George's2026-03-26T05:00:57","area":"Prince George's","outages":"4","customers":"355605","percent_out":"0.0011248435764401514","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Kent2026-03-26T10:45:55","area":"Kent","outages":"0","customers":"12711","percent_out":"0.0","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Montgomery2026-03-28T10:45:55","area":"Montgomery","outages":"14","customers":"385644","percent_out":"0.0036302911493501775","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Prince_George's2026-03-28T10:45:55","area":"Prince George's","outages":"0","customers":"355588","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Dorchester2026-03-30T13:00:56","area":"Dorchester","outages":"2","customers":"20327","percent_out":"0.009839130220888474","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Frederick2026-03-30T13:00:56","area":"Frederick","outages":"1","customers":"119946","percent_out":"0.0008337085021593051","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Garrett2026-03-30T13:00:56","area":"Garrett","outages":"1","customers":"21454","percent_out":"0.004661135452596252","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Harford2026-03-30T13:00:56","area":"Harford","outages":"16","customers":"116233","percent_out":"0.013765453872824414","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Howard2026-03-30T13:00:56","area":"Howard","outages":"1","customers":"140209","percent_out":"0.000713220977255383","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Queen_Anne's2026-03-26T05:00:57","area":"Queen Anne's","outages":"0","customers":"28563","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Somerset2026-03-26T05:00:57","area":"Somerset","outages":"0","customers":"11532","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"St._Mary's2026-03-26T05:00:57","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Talbot2026-03-26T05:00:57","area":"Talbot","outages":"0","customers":"24050","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Washington2026-03-26T05:00:57","area":"Washington","outages":"0","customers":"54822","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Wicomico2026-03-26T05:00:57","area":"Wicomico","outages":"0","customers":"50942","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Worcester2026-03-26T05:00:57","area":"Worcester","outages":"0","customers":"60000","percent_out":"0.0","dt_stamp":"2026-03-26T05:00:57.000"}
+,{"uid":"Kent2026-03-30T13:00:56","area":"Kent","outages":"4","customers":"12714","percent_out":"0.031461381154632685","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Montgomery2026-03-30T13:00:56","area":"Montgomery","outages":"14","customers":"385629","percent_out":"0.0036304323585622453","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Prince_George's2026-03-30T13:00:56","area":"Prince George's","outages":"4","customers":"355592","percent_out":"0.0011248846993183199","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Queen_Anne's2026-03-30T13:00:56","area":"Queen Anne's","outages":"0","customers":"28572","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Somerset2026-03-30T13:00:56","area":"Somerset","outages":"0","customers":"11534","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"St._Mary's2026-03-30T13:00:56","area":"St. Mary's","outages":"3","customers":"54027","percent_out":"0.00555277916597257","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Calvert2026-04-01T09:45:57","area":"Calvert","outages":"2","customers":"42044","percent_out":"0.0047569213205213585","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Caroline2026-04-01T09:45:57","area":"Caroline","outages":"2","customers":"16574","percent_out":"0.012067093037287318","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Montgomery2026-03-26T10:45:55","area":"Montgomery","outages":"11","customers":"385645","percent_out":"0.0028523642209804354","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Prince_George's2026-03-26T10:45:55","area":"Prince George's","outages":"10","customers":"355605","percent_out":"0.002812108941100378","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Queen_Anne's2026-03-26T10:45:55","area":"Queen Anne's","outages":"0","customers":"28565","percent_out":"0.0","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Somerset2026-03-26T10:45:55","area":"Somerset","outages":"0","customers":"11532","percent_out":"0.0","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"St._Mary's2026-03-26T10:45:55","area":"St. Mary's","outages":"0","customers":"54873","percent_out":"0.0","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Talbot2026-03-26T10:45:55","area":"Talbot","outages":"1","customers":"24045","percent_out":"0.004158868787689748","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Worcester2026-03-22T14:15:56","area":"Worcester","outages":"1","customers":"60000","percent_out":"0.0016666666666666668","dt_stamp":"2026-03-22T14:15:56.000"}
+,{"uid":"Queen_Anne's2026-03-24T05:15:55","area":"Queen Anne's","outages":"0","customers":"28554","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Washington2026-03-26T10:45:55","area":"Washington","outages":"8","customers":"54823","percent_out":"0.01459241559199606","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Wicomico2026-03-26T10:45:55","area":"Wicomico","outages":"7","customers":"50942","percent_out":"0.01374111734914216","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Queen_Anne's2026-03-28T10:45:55","area":"Queen Anne's","outages":"0","customers":"28579","percent_out":"0.0","dt_stamp":"2026-03-28T10:45:55.000"}
+,{"uid":"Talbot2026-03-30T13:00:56","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Washington2026-03-30T13:00:56","area":"Washington","outages":"0","customers":"54823","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Wicomico2026-03-30T13:00:56","area":"Wicomico","outages":"0","customers":"50940","percent_out":"0.0","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Worcester2026-03-30T13:00:56","area":"Worcester","outages":"2","customers":"60002","percent_out":"0.0033332222259258026","dt_stamp":"2026-03-30T13:00:56.000"}
+,{"uid":"Allegany2026-04-01T04:00:59","area":"Allegany","outages":"0","customers":"37312","percent_out":"0.0","dt_stamp":"2026-04-01T04:00:59.000"}
+,{"uid":"Anne_Arundel2026-04-01T04:00:59","area":"Anne Arundel","outages":"4","customers":"264502","percent_out":"0.0015122758996151259","dt_stamp":"2026-04-01T04:00:59.000"}
+,{"uid":"Baltimore2026-04-01T04:00:59","area":"Baltimore","outages":"0","customers":"378032","percent_out":"0.0","dt_stamp":"2026-04-01T04:00:59.000"}
+,{"uid":"Baltimore_City2026-04-01T04:00:59","area":"Baltimore City","outages":"8","customers":"285041","percent_out":"0.00280661378538526","dt_stamp":"2026-04-01T04:00:59.000"}
+,{"uid":"Baltimore_City2026-03-12T14:16:14","area":"Baltimore City","outages":"206","customers":"285459","percent_out":"0.07216447896195251","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Calvert2026-03-12T14:16:14","area":"Calvert","outages":"1","customers":"42225","percent_out":"0.002368265245707519","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Caroline2026-03-12T14:16:14","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Carroll2026-03-12T14:16:14","area":"Carroll","outages":"78","customers":"76728","percent_out":"0.10165780419142947","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Cecil2026-03-12T14:16:14","area":"Cecil","outages":"5","customers":"51860","percent_out":"0.009641342074816815","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Charles2026-03-12T14:16:14","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Harford2026-03-14T13:45:57","area":"Harford","outages":"7","customers":"116487","percent_out":"0.006009254251547383","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Howard2026-03-14T13:45:57","area":"Howard","outages":"4","customers":"140344","percent_out":"0.0028501396568431855","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Kent2026-03-14T13:45:57","area":"Kent","outages":"4","customers":"12725","percent_out":"0.03143418467583497","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Montgomery2026-03-14T13:45:57","area":"Montgomery","outages":"18","customers":"385219","percent_out":"0.0046726667168545686","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Prince_George's2026-03-14T13:45:57","area":"Prince George's","outages":"8","customers":"355623","percent_out":"0.0022495732840676786","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Queen_Anne's2026-03-14T13:45:57","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Somerset2026-03-14T13:45:57","area":"Somerset","outages":"0","customers":"11529","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"St._Mary's2026-03-14T13:45:57","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Talbot2026-03-14T13:45:57","area":"Talbot","outages":"0","customers":"24043","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Washington2026-03-14T13:45:57","area":"Washington","outages":"0","customers":"54853","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Wicomico2026-03-14T13:45:57","area":"Wicomico","outages":"0","customers":"50964","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Worcester2026-03-14T13:45:57","area":"Worcester","outages":"0","customers":"59992","percent_out":"0.0","dt_stamp":"2026-03-14T13:45:57.000"}
+,{"uid":"Garrett2026-03-16T05:45:56","area":"Garrett","outages":"48","customers":"21454","percent_out":"0.22373450172462014","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Harford2026-03-16T05:45:56","area":"Harford","outages":"0","customers":"116455","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Somerset2026-03-24T05:15:55","area":"Somerset","outages":"0","customers":"11534","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"St._Mary's2026-03-24T05:15:55","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Talbot2026-03-24T05:15:55","area":"Talbot","outages":"0","customers":"24046","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Washington2026-03-24T05:15:55","area":"Washington","outages":"0","customers":"54822","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Wicomico2026-03-24T05:15:55","area":"Wicomico","outages":"0","customers":"50948","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Worcester2026-03-24T05:15:55","area":"Worcester","outages":"0","customers":"59997","percent_out":"0.0","dt_stamp":"2026-03-24T05:15:55.000"}
+,{"uid":"Allegany2026-03-24T10:30:59","area":"Allegany","outages":"0","customers":"37316","percent_out":"0.0","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Anne_Arundel2026-03-24T10:30:59","area":"Anne Arundel","outages":"15","customers":"264716","percent_out":"0.005666450082352408","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Baltimore2026-03-24T10:30:59","area":"Baltimore","outages":"24","customers":"378262","percent_out":"0.006344808624709857","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Baltimore_City2026-03-24T10:30:59","area":"Baltimore City","outages":"12","customers":"285385","percent_out":"0.004204846085113093","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Calvert2026-03-24T10:30:59","area":"Calvert","outages":"0","customers":"42222","percent_out":"0.0","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Calvert2026-04-01T04:00:59","area":"Calvert","outages":"0","customers":"42044","percent_out":"0.0","dt_stamp":"2026-04-01T04:00:59.000"}
+,{"uid":"Caroline2026-04-01T04:00:59","area":"Caroline","outages":"0","customers":"16574","percent_out":"0.0","dt_stamp":"2026-04-01T04:00:59.000"}
+,{"uid":"Carroll2026-04-01T04:00:59","area":"Carroll","outages":"4","customers":"76706","percent_out":"0.005214715928349803","dt_stamp":"2026-04-01T04:00:59.000"}
+,{"uid":"Caroline2026-03-24T10:30:59","area":"Caroline","outages":"0","customers":"16571","percent_out":"0.0","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Carroll2026-03-24T10:30:59","area":"Carroll","outages":"4","customers":"76712","percent_out":"0.005214308061320263","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Cecil2026-03-24T10:30:59","area":"Cecil","outages":"212","customers":"51855","percent_out":"0.40883232089480276","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Charles2026-03-24T10:30:59","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Dorchester2026-03-24T10:30:59","area":"Dorchester","outages":"6","customers":"20336","percent_out":"0.029504327301337528","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Frederick2026-03-24T10:30:59","area":"Frederick","outages":"1","customers":"119976","percent_out":"0.0008335000333400014","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Howard2026-03-16T05:45:56","area":"Howard","outages":"0","customers":"140375","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Kent2026-03-16T05:45:56","area":"Kent","outages":"1","customers":"12725","percent_out":"0.007858546168958742","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Montgomery2026-03-16T05:45:56","area":"Montgomery","outages":"55","customers":"385216","percent_out":"0.014277703937531151","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Prince_George's2026-03-16T05:45:56","area":"Prince George's","outages":"0","customers":"355629","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Queen_Anne's2026-03-16T05:45:56","area":"Queen Anne's","outages":"0","customers":"28556","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Somerset2026-03-16T05:45:56","area":"Somerset","outages":"0","customers":"11529","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"St._Mary's2026-03-16T05:45:56","area":"St. Mary's","outages":"0","customers":"55538","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Talbot2026-03-16T05:45:56","area":"Talbot","outages":"0","customers":"24043","percent_out":"0.0","dt_stamp":"2026-03-16T05:45:56.000"}
+,{"uid":"Worcester2026-03-26T10:45:55","area":"Worcester","outages":"7","customers":"60000","percent_out":"0.011666666666666667","dt_stamp":"2026-03-26T10:45:55.000"}
+,{"uid":"Allegany2026-03-30T13:15:56","area":"Allegany","outages":"1","customers":"37312","percent_out":"0.0026801029159519724","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Anne_Arundel2026-03-30T13:15:56","area":"Anne Arundel","outages":"10","customers":"264559","percent_out":"0.003779875188521275","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Baltimore2026-03-30T13:15:56","area":"Baltimore","outages":"29","customers":"378015","percent_out":"0.007671653241273494","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Baltimore_City2026-03-30T13:15:56","area":"Baltimore City","outages":"58","customers":"285135","percent_out":"0.020341241867887144","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Calvert2026-03-30T13:15:56","area":"Calvert","outages":"0","customers":"42041","percent_out":"0.0","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Caroline2026-03-30T13:15:56","area":"Caroline","outages":"0","customers":"16574","percent_out":"0.0","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Carroll2026-03-30T13:15:56","area":"Carroll","outages":"0","customers":"76701","percent_out":"0.0","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Cecil2026-03-30T13:15:56","area":"Cecil","outages":"0","customers":"51845","percent_out":"0.0","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Charles2026-03-30T13:15:56","area":"Charles","outages":"0","customers":"75720","percent_out":"0.0","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Dorchester2026-03-30T13:15:56","area":"Dorchester","outages":"2","customers":"20327","percent_out":"0.009839130220888474","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Frederick2026-03-30T13:15:56","area":"Frederick","outages":"1","customers":"119946","percent_out":"0.0008337085021593051","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Garrett2026-03-30T13:15:56","area":"Garrett","outages":"1","customers":"21454","percent_out":"0.004661135452596252","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Harford2026-03-30T13:15:56","area":"Harford","outages":"16","customers":"116233","percent_out":"0.013765453872824414","dt_stamp":"2026-03-30T13:15:56.000"}
+,{"uid":"Carroll2026-04-01T09:45:57","area":"Carroll","outages":"4","customers":"76706","percent_out":"0.005214715928349803","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Cecil2026-04-01T09:45:57","area":"Cecil","outages":"4","customers":"51841","percent_out":"0.007715900542042013","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Charles2026-04-01T09:45:57","area":"Charles","outages":"64","customers":"75720","percent_out":"0.08452192287374538","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Dorchester2026-04-01T09:45:57","area":"Dorchester","outages":"0","customers":"20321","percent_out":"0.0","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Frederick2026-04-01T09:45:57","area":"Frederick","outages":"14","customers":"119947","percent_out":"0.011671821721260224","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Garrett2026-04-01T09:45:57","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-04-01T09:45:57.000"}
+,{"uid":"Dorchester2026-03-12T14:16:14","area":"Dorchester","outages":"0","customers":"20342","percent_out":"0.0","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Frederick2026-03-12T14:16:14","area":"Frederick","outages":"21","customers":"120006","percent_out":"0.01749912504374781","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Garrett2026-03-12T14:16:14","area":"Garrett","outages":"2","customers":"21454","percent_out":"0.009322270905192505","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Harford2026-03-12T14:16:14","area":"Harford","outages":"4","customers":"116492","percent_out":"0.0034337121862445487","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Allegany2026-03-22T14:30:51","area":"Allegany","outages":"1","customers":"37328","percent_out":"0.002678954136305186","dt_stamp":"2026-03-22T14:30:51.000"}
+,{"uid":"Anne_Arundel2026-03-22T14:30:51","area":"Anne Arundel","outages":"4","customers":"264775","percent_out":"0.0015107166462090455","dt_stamp":"2026-03-22T14:30:51.000"}
+,{"uid":"Baltimore2026-03-22T14:30:51","area":"Baltimore","outages":"6","customers":"378370","percent_out":"0.001585749398736686","dt_stamp":"2026-03-22T14:30:51.000"}
+,{"uid":"Baltimore_City2026-03-22T14:30:51","area":"Baltimore City","outages":"4","customers":"285416","percent_out":"0.0014014631275051153","dt_stamp":"2026-03-22T14:30:51.000"}
+,{"uid":"Garrett2026-03-24T10:30:59","area":"Garrett","outages":"0","customers":"21454","percent_out":"0.0","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Harford2026-03-24T10:30:59","area":"Harford","outages":"4","customers":"116349","percent_out":"0.0034379324274381386","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Howard2026-03-24T10:30:59","area":"Howard","outages":"0","customers":"140312","percent_out":"0.0","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Kent2026-03-24T10:30:59","area":"Kent","outages":"0","customers":"12715","percent_out":"0.0","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Montgomery2026-03-24T10:30:59","area":"Montgomery","outages":"21","customers":"385700","percent_out":"0.0054446460980036296","dt_stamp":"2026-03-24T10:30:59.000"}
+,{"uid":"Howard2026-03-12T14:16:14","area":"Howard","outages":"502","customers":"140361","percent_out":"0.35764920455112176","dt_stamp":"2026-03-12T14:16:14.000"}
+,{"uid":"Allegany2026-03-14T14:00:57","area":"Allegany","outages":"13","customers":"37318","percent_out":"0.034835736105900635","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Anne_Arundel2026-03-14T14:00:57","area":"Anne Arundel","outages":"110","customers":"264804","percent_out":"0.041540158003655535","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Baltimore2026-03-14T14:00:57","area":"Baltimore","outages":"68","customers":"378376","percent_out":"0.017971541535403937","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Baltimore_City2026-03-14T14:00:57","area":"Baltimore City","outages":"611","customers":"285419","percent_out":"0.2140712426292573","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Calvert2026-03-14T14:00:57","area":"Calvert","outages":"0","customers":"42221","percent_out":"0.0","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Caroline2026-03-14T14:00:57","area":"Caroline","outages":"2","customers":"16580","percent_out":"0.012062726176115802","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Carroll2026-03-14T14:00:57","area":"Carroll","outages":"17","customers":"76721","percent_out":"0.022158209616662972","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Cecil2026-03-14T14:00:57","area":"Cecil","outages":"4","customers":"51861","percent_out":"0.0077129249339580805","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Charles2026-03-14T14:00:57","area":"Charles","outages":"0","customers":"77082","percent_out":"0.0","dt_stamp":"2026-03-14T14:00:57.000"}
+,{"uid":"Allegany2026-03-16T16:45:58","area":"Allegany","outages":"0","customers":"37318","percent_out":"0.0","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Anne_Arundel2026-03-16T16:45:58","area":"Anne Arundel","outages":"108","customers":"264826","percent_out":"0.040781494264158356","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Baltimore2026-03-16T16:45:58","area":"Baltimore","outages":"137","customers":"378414","percent_out":"0.03620373453413457","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Baltimore_City2026-03-16T16:45:58","area":"Baltimore City","outages":"11","customers":"285474","percent_out":"0.003853240575323847","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Calvert2026-03-16T16:45:58","area":"Calvert","outages":"0","customers":"42224","percent_out":"0.0","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Caroline2026-03-16T16:45:58","area":"Caroline","outages":"0","customers":"16580","percent_out":"0.0","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Carroll2026-03-16T16:45:58","area":"Carroll","outages":"139","customers":"76726","percent_out":"0.18116414253316998","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Cecil2026-03-16T16:45:58","area":"Cecil","outages":"0","customers":"51862","percent_out":"0.0","dt_stamp":"2026-03-16T16:45:58.000"}
+,{"uid":"Prince_George's2026-03-24T10:30:59","area":"Prince George's","outages":"99","customers":"355844","percent_out":"0.027821180067670103","dt_stamp":"2026-03-24T10:30:59.000"}]
