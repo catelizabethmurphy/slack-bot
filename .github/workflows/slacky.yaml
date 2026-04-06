@@ -2,7 +2,7 @@ name: Slacky Bot Workflow
 
 on:
   schedule:
-    - cron: '0 20 * * *' # Runs every day at 3 PM EST
+    - cron: '30 19 * * *' # Runs every day at 3:30 PM EDT
   workflow_dispatch: # Allows manual triggering
 
 jobs:
