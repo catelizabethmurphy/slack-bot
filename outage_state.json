@@ -1,0 +1,149 @@
+{
+  "areas": {
+    "Allegany": {
+      "affected_customers": 0,
+      "customers": 37293,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Anne Arundel": {
+      "affected_customers": 6,
+      "customers": 264639,
+      "outages": 6,
+      "percent_out": 0.0022672395225193567
+    },
+    "Baltimore": {
+      "affected_customers": 6,
+      "customers": 378123,
+      "outages": 6,
+      "percent_out": 0.0015867852524178642
+    },
+    "Baltimore City": {
+      "affected_customers": 63,
+      "customers": 285324,
+      "outages": 63,
+      "percent_out": 0.022080161500609832
+    },
+    "Calvert": {
+      "affected_customers": 0,
+      "customers": 42186,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Caroline": {
+      "affected_customers": 0,
+      "customers": 16564,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Carroll": {
+      "affected_customers": 21,
+      "customers": 76703,
+      "outages": 21,
+      "percent_out": 0.027378329400414583
+    },
+    "Cecil": {
+      "affected_customers": 4,
+      "customers": 51860,
+      "outages": 4,
+      "percent_out": 0.007713073659853451
+    },
+    "Charles": {
+      "affected_customers": 7,
+      "customers": 77219,
+      "outages": 7,
+      "percent_out": 0.009065126458514096
+    },
+    "Dorchester": {
+      "affected_customers": 0,
+      "customers": 20320,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Frederick": {
+      "affected_customers": 14,
+      "customers": 119984,
+      "outages": 14,
+      "percent_out": 0.011668222429657288
+    },
+    "Garrett": {
+      "affected_customers": 0,
+      "customers": 21459,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Harford": {
+      "affected_customers": 4,
+      "customers": 116229,
+      "outages": 4,
+      "percent_out": 0.003441481902107047
+    },
+    "Howard": {
+      "affected_customers": 4,
+      "customers": 140204,
+      "outages": 4,
+      "percent_out": 0.002852985649482183
+    },
+    "Kent": {
+      "affected_customers": 0,
+      "customers": 12715,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Montgomery": {
+      "affected_customers": 8,
+      "customers": 385791,
+      "outages": 8,
+      "percent_out": 0.0020736616458134067
+    },
+    "Prince George's": {
+      "affected_customers": 8,
+      "customers": 355747,
+      "outages": 8,
+      "percent_out": 0.0022487891675825795
+    },
+    "Queen Anne's": {
+      "affected_customers": 0,
+      "customers": 28589,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Somerset": {
+      "affected_customers": 1,
+      "customers": 11533,
+      "outages": 1,
+      "percent_out": 0.008670770831526923
+    },
+    "St. Mary's": {
+      "affected_customers": 0,
+      "customers": 55513,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Talbot": {
+      "affected_customers": 0,
+      "customers": 24047,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Washington": {
+      "affected_customers": 0,
+      "customers": 54818,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Wicomico": {
+      "affected_customers": 0,
+      "customers": 50936,
+      "outages": 0,
+      "percent_out": 0.0
+    },
+    "Worcester": {
+      "affected_customers": 0,
+      "customers": 60004,
+      "outages": 0,
+      "percent_out": 0.0
+    }
+  },
+  "latest_dt_stamp": "2026-04-14T18:00:57+00:00"
+}
