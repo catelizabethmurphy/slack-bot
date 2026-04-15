@@ -1,24 +1,15 @@
-name: Slacky Bot Workflow
+name: Regulations Daily Slack Digest
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs every 2 hours
-  workflow_dispatch: # Allows manual triggering
-    inputs:
-      alert_window_hours:
-        description: 'Alert lookback window in hours'
-        required: false
-        default: '2'
-      include_existing_window:
-        description: 'Report rows in window even if already seen'
-        required: false
-        default: 'false'
+    - cron: '0 12 * * *' # Runs every day at 12:00 UTC
+  workflow_dispatch:
 
 jobs:
   slacky:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -31,24 +22,10 @@ jobs:
       - name: Install dependencies
         run: pip install requests slackclient
 
-      - name: Run Outages Script
+      - name: Run Regulations Digest Script
         env:
           SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+          REGULATIONS_API_KEY: ${{ secrets.REGULATIONS_API_KEY }}
           SLACK_CHANNEL: ${{ vars.SLACK_CHANNEL || 'slack-bots' }}
-          ALERT_WINDOW_HOURS: ${{ github.event.inputs.alert_window_hours || vars.ALERT_WINDOW_HOURS || '2' }}
-          INCLUDE_EXISTING_WINDOW: ${{ github.event.inputs.include_existing_window || 'false' }}
-        run: python get_outages.py
-
-      - name: Commit state file updates
-        run: |
-          if git diff --quiet -- outage_state.json outages.json; then
-            echo "No outage file changes to commit."
-            exit 0
-          fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add outage_state.json outages.json
-          git commit -m "Update outage files [skip ci]"
-          git push
+        run: python get_new_rules.py
 
